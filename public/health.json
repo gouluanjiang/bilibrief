@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-09-05T17:30:03Z",
-  "last_success_at": "2026-09-05T17:30:03Z",
+  "checked_at": "2026-09-05T23:29:54Z",
+  "last_success_at": "2026-09-05T23:29:54Z",
   "fetched_items": 600,
-  "latest_items": 123,
+  "latest_items": 93,
   "message": "ok"
 }
