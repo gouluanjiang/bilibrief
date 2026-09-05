@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>BiliBrief</title>
+  <style>
+    body { max-width: 760px; margin: 40px auto; padding: 0 18px; font-family: system-ui, sans-serif; line-height: 1.65; }
+    code { background: #f3f3f3; padding: .15em .35em; border-radius: 4px; }
+    .ok { color: #16833d; } .bad { color: #b42318; }
+  </style>
+</head>
+<body>
+  <h1>BiliBrief</h1>
+  <p>这是给 ChatGPT 日报使用的只读 Bilibili 更新数据源，不包含账号 Cookie。</p>
+  <ul>
+    <li><a href="latest.json">latest.json</a>：最近约 30 小时</li>
+    <li><a href="recent.json">recent.json</a>：最近约 72 小时</li>
+    <li><a href="health.json">health.json</a>：采集状态</li>
+  </ul>
+  <p id="health">正在读取状态…</p>
+  <script>
+    fetch('health.json?ts=' + Date.now())
+      .then(r => r.json())
+      .then(h => {
+        const el = document.getElementById('health');
+        el.className = h.status === 'ok' ? 'ok' : 'bad';
+        el.textContent = `状态：${h.status}；最近检查：${h.checked_at || '未知'}；最近成功：${h.last_success_at || '无'}`;
+      })
+      .catch(() => document.getElementById('health').textContent = '状态读取失败');
+  </script>
+</body>
+</html>

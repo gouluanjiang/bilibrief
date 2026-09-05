@@ -1,0 +1,8 @@
+{
+  "status": "not_configured",
+  "checked_at": null,
+  "last_success_at": null,
+  "fetched_items": 0,
+  "latest_items": 0,
+  "message": "Add BILIBILI_COOKIE in GitHub Actions secrets, then run the workflow."
+}
