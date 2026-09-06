@@ -1,9 +1,57 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-06T17:30:27Z",
+  "generated_at": "2026-09-06T23:30:52Z",
   "window_hours": 30,
-  "count": 119,
+  "count": 102,
   "items": [
+    {
+      "id": "1245090094067482632",
+      "kind": "video",
+      "dynamic_type": "DYNAMIC_TYPE_AV",
+      "major_type": "MAJOR_TYPE_ARCHIVE",
+      "up": "一名路过的希儿厨",
+      "up_uid": "3461562585057525",
+      "published_at": "2026-09-06T22:25:28Z",
+      "published_ts": 1788733528,
+      "title": "被病娇女友抓住，bro的反应（评论区有短文）",
+      "text": "-",
+      "url": "https://www.bilibili.com/video/BV1eNbt6yEbd",
+      "author_action": "投稿了视频",
+      "first_seen_at": "2026-09-06T23:30:52Z",
+      "last_seen_at": "2026-09-06T23:30:52Z"
+    },
+    {
+      "id": "1245051881709895686",
+      "kind": "video",
+      "dynamic_type": "DYNAMIC_TYPE_AV",
+      "major_type": "MAJOR_TYPE_ARCHIVE",
+      "up": "Azenix",
+      "up_uid": "5017650",
+      "published_at": "2026-09-06T19:57:11Z",
+      "published_ts": 1788724631,
+      "title": "【中日歌词字幕】篠澤広《め》/《眼》",
+      "text": "音频自购 源：https://nex-tone.link/Sfawyh5DW\n作詞・作曲・編曲：虻瀬犬\n歌词翻译/轴：Azenix\n\n这歌词虽然一共没几句但是太难翻了，头快秃掉了……\n暂且尝试了现代诗风格的……敬请斧正\n\n本版歌词可随意使用，包括但不限于自印，搬运，再创作等\n当然，若能同时标出译者名义将不胜感激\n歌词全文：\n光の中でさえ、嵐は止まないな\n纵然置身于万丈光芒，漫天风暴亦未尝止息\nとどのつまり、繋ぐよ、て\n兜兜转转，终究要牵那探出的，手——\n\n新たな形だよ\n重构的轮廓迎来破茧\n身体ががたつくよ",
+      "url": "https://www.bilibili.com/video/BV1webt6REbw",
+      "author_action": "投稿了视频",
+      "first_seen_at": "2026-09-06T23:30:52Z",
+      "last_seen_at": "2026-09-06T23:30:52Z"
+    },
+    {
+      "id": "1245026288046964743",
+      "kind": "dynamic",
+      "dynamic_type": "DYNAMIC_TYPE_DRAW",
+      "major_type": "MAJOR_TYPE_OPUS",
+      "up": "巴莎卡_R",
+      "up_uid": "9125673",
+      "published_at": "2026-09-06T18:17:52Z",
+      "published_ts": 1788718672,
+      "title": "饿啊好忙啊好想画画啊",
+      "text": "饿啊好忙啊好想画画啊",
+      "url": "https://www.bilibili.com/opus/1245026288046964743",
+      "author_action": "",
+      "first_seen_at": "2026-09-06T23:30:52Z",
+      "last_seen_at": "2026-09-06T23:30:52Z"
+    },
     {
       "id": "1244990762191421458",
       "kind": "dynamic",
@@ -18,7 +66,7 @@
       "url": "https://www.bilibili.com/opus/1244990762191421458",
       "author_action": "",
       "first_seen_at": "2026-09-06T17:30:27Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244977029049221138",
@@ -34,7 +82,7 @@
       "url": "https://www.bilibili.com/video/BV12wb46oETS",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T17:30:27Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244959838471979015",
@@ -50,7 +98,7 @@
       "url": "https://www.bilibili.com/opus/1244959838471979015",
       "author_action": "",
       "first_seen_at": "2026-09-06T17:30:27Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244958577898029074",
@@ -66,7 +114,7 @@
       "url": "https://www.bilibili.com/video/BV1aybW6aEmV",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T17:30:27Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244957083202224128",
@@ -82,7 +130,7 @@
       "url": "https://www.bilibili.com/video/BV1a2bW6cEuv",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T17:30:27Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244956048137125928",
@@ -98,7 +146,7 @@
       "url": "https://www.bilibili.com/video/BV1oabW6zEms",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T17:30:27Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244946685105274931",
@@ -114,7 +162,7 @@
       "url": "https://www.bilibili.com/opus/1244946685105274931",
       "author_action": "",
       "first_seen_at": "2026-09-06T17:30:27Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244944376571887620",
@@ -130,7 +178,7 @@
       "url": "https://www.bilibili.com/opus/1244944376571887620",
       "author_action": "",
       "first_seen_at": "2026-09-06T17:30:27Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244941453862371360",
@@ -160,7 +208,7 @@
         "author_action": "投稿了视频"
       },
       "first_seen_at": "2026-09-06T17:30:27Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244939851839569922",
@@ -176,7 +224,7 @@
       "url": "https://www.bilibili.com/video/BV16ubs65ExJ",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T17:30:27Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244928921106907169",
@@ -192,7 +240,7 @@
       "url": "https://www.bilibili.com/opus/1244928921106907169",
       "author_action": "",
       "first_seen_at": "2026-09-06T17:30:27Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244925674133651463",
@@ -222,7 +270,7 @@
         "author_action": "投稿了视频"
       },
       "first_seen_at": "2026-09-06T17:30:27Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244920627509329943",
@@ -238,7 +286,7 @@
       "url": "https://www.bilibili.com/opus/1244920627509329943",
       "author_action": "",
       "first_seen_at": "2026-09-06T11:31:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244911397647679521",
@@ -254,7 +302,7 @@
       "url": "https://www.bilibili.com/opus/1244911397647679521",
       "author_action": "",
       "first_seen_at": "2026-09-06T11:31:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244905921542357015",
@@ -270,7 +318,7 @@
       "url": "https://www.bilibili.com/video/BV1axbs6YEG8",
       "author_action": "发布了动态视频",
       "first_seen_at": "2026-09-06T11:31:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244904433364500488",
@@ -286,7 +334,7 @@
       "url": "https://www.bilibili.com/opus/1244904433364500488",
       "author_action": "",
       "first_seen_at": "2026-09-06T11:31:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244901128406040582",
@@ -302,7 +350,7 @@
       "url": "https://www.bilibili.com/video/BV1uybH69ERT",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T11:31:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244899388955820041",
@@ -318,7 +366,7 @@
       "url": "https://www.bilibili.com/video/BV1TSbH6nEYv",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T11:31:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244898010250346566",
@@ -334,7 +382,7 @@
       "url": "https://www.bilibili.com/opus/1244898010250346566",
       "author_action": "投稿了文章",
       "first_seen_at": "2026-09-06T11:31:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244897990943965191",
@@ -350,7 +398,7 @@
       "url": "https://www.bilibili.com/opus/1244897990943965191",
       "author_action": "",
       "first_seen_at": "2026-09-06T11:31:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244897990924042260",
@@ -366,7 +414,7 @@
       "url": "https://www.bilibili.com/opus/1244897990924042260",
       "author_action": "",
       "first_seen_at": "2026-09-06T11:31:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244895776875741221",
@@ -382,7 +430,7 @@
       "url": "https://www.bilibili.com/video/BV1o8bH6AEjt",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T11:31:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244895682353954817",
@@ -398,7 +446,7 @@
       "url": "https://www.bilibili.com/opus/1244895682353954817",
       "author_action": "投稿了文章",
       "first_seen_at": "2026-09-06T11:31:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244892237773406214",
@@ -414,7 +462,7 @@
       "url": "https://www.bilibili.com/video/BV1ZtbH6eEnF",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T11:31:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244891864155291654",
@@ -430,7 +478,7 @@
       "url": "https://www.bilibili.com/video/BV15ibH6FEnh",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T11:31:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244885363691880472",
@@ -446,7 +494,7 @@
       "url": "https://www.bilibili.com/opus/1244885363691880472",
       "author_action": "",
       "first_seen_at": "2026-09-06T11:31:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244882956378439703",
@@ -462,7 +510,7 @@
       "url": "https://www.bilibili.com/opus/1244882956378439703",
       "author_action": "",
       "first_seen_at": "2026-09-06T11:31:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244882529031290886",
@@ -478,7 +526,7 @@
       "url": "https://www.bilibili.com/opus/1244882529031290886",
       "author_action": "",
       "first_seen_at": "2026-09-06T11:31:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244877890484437009",
@@ -494,7 +542,7 @@
       "url": "https://www.bilibili.com/opus/1244877890484437009",
       "author_action": "",
       "first_seen_at": "2026-09-06T11:31:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244875766573826052",
@@ -510,7 +558,7 @@
       "url": "https://www.bilibili.com/opus/1244875766573826052",
       "author_action": "投稿了文章",
       "first_seen_at": "2026-09-06T11:31:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244874798067089428",
@@ -526,7 +574,7 @@
       "url": "https://www.bilibili.com/opus/1244874798067089428",
       "author_action": "",
       "first_seen_at": "2026-09-06T11:31:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244867653439324177",
@@ -542,7 +590,7 @@
       "url": "https://www.bilibili.com/video/BV18tbp6WE8y",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T11:31:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244867067152171025",
@@ -558,7 +606,7 @@
       "url": "https://www.bilibili.com/opus/1244867067152171025",
       "author_action": "",
       "first_seen_at": "2026-09-06T11:31:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244866850223816709",
@@ -574,7 +622,7 @@
       "url": "https://www.bilibili.com/video/BV1tbbp6XEtu",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T11:31:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244866175927582727",
@@ -590,7 +638,7 @@
       "url": "https://www.bilibili.com/video/BV1Sbbp6XEU1",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T11:31:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244864238940323843",
@@ -606,7 +654,7 @@
       "url": "https://www.bilibili.com/video/BV1WBbp62Exv",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T11:31:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244861979775991814",
@@ -622,7 +670,7 @@
       "url": "https://www.bilibili.com/video/BV1dEbp68EFx",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T11:31:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244860399226978322",
@@ -638,7 +686,7 @@
       "url": "https://www.bilibili.com/opus/1244860399226978322",
       "author_action": "投稿了文章",
       "first_seen_at": "2026-09-06T11:31:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244859336203698181",
@@ -654,7 +702,7 @@
       "url": "https://www.bilibili.com/opus/1244859336203698181",
       "author_action": "",
       "first_seen_at": "2026-09-06T11:31:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244859078480494596",
@@ -670,7 +718,7 @@
       "url": "https://www.bilibili.com/opus/1244859078480494596",
       "author_action": "",
       "first_seen_at": "2026-09-06T11:31:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244852891605270531",
@@ -686,7 +734,7 @@
       "url": "https://www.bilibili.com/video/BV1Cqtq6SETd",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T11:31:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244851757717127171",
@@ -702,7 +750,7 @@
       "url": "https://www.bilibili.com/video/BV1vdbp6NECP",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T11:31:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244851605278294054",
@@ -718,7 +766,7 @@
       "url": "https://www.bilibili.com/opus/1244851605278294054",
       "author_action": "",
       "first_seen_at": "2026-09-06T11:31:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244851605276196886",
@@ -734,7 +782,7 @@
       "url": "https://www.bilibili.com/opus/1244851605276196886",
       "author_action": "",
       "first_seen_at": "2026-09-06T11:31:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244851605265711122",
@@ -750,7 +798,7 @@
       "url": "https://www.bilibili.com/opus/1244851605265711122",
       "author_action": "",
       "first_seen_at": "2026-09-06T11:31:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244847600222339097",
@@ -766,7 +814,7 @@
       "url": "https://www.bilibili.com/video/BV1GwbW6cEzF",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T11:31:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244847436969541633",
@@ -782,7 +830,7 @@
       "url": "https://www.bilibili.com/video/BV13AbW6hEoe",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T11:31:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244847037594206215",
@@ -798,7 +846,7 @@
       "url": "https://www.bilibili.com/video/BV1GwbW6cERe",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T11:31:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244843874294169637",
@@ -814,7 +862,7 @@
       "url": "https://www.bilibili.com/opus/1244843874294169637",
       "author_action": "",
       "first_seen_at": "2026-09-06T11:31:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244837541390057476",
@@ -830,7 +878,7 @@
       "url": "https://www.bilibili.com/video/BV1zDbp6BEyh",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T11:31:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244837431855808518",
@@ -846,7 +894,7 @@
       "url": "https://www.bilibili.com/opus/1244837431855808518",
       "author_action": "",
       "first_seen_at": "2026-09-06T11:31:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244836143387639816",
@@ -862,7 +910,7 @@
       "url": "https://www.bilibili.com/opus/1244836143387639816",
       "author_action": "",
       "first_seen_at": "2026-09-06T11:31:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244836143356182532",
@@ -878,7 +926,7 @@
       "url": "https://www.bilibili.com/opus/1244836143356182532",
       "author_action": "",
       "first_seen_at": "2026-09-06T11:31:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244828412414001170",
@@ -894,7 +942,7 @@
       "url": "https://www.bilibili.com/opus/1244828412414001170",
       "author_action": "",
       "first_seen_at": "2026-09-06T11:31:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244827302180683794",
@@ -910,7 +958,7 @@
       "url": "https://www.bilibili.com/video/BV1dMbn6bEoX",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244825597078667268",
@@ -926,7 +974,7 @@
       "url": "https://www.bilibili.com/video/BV1PQbJ63E9x",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244822161121607687",
@@ -942,7 +990,7 @@
       "url": "https://www.bilibili.com/video/BV1xSbJ6kEtx",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244820681532637185",
@@ -958,7 +1006,7 @@
       "url": "https://www.bilibili.com/opus/1244820681532637185",
       "author_action": "",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244818299935522832",
@@ -974,7 +1022,7 @@
       "url": "https://www.bilibili.com/video/BV1ydbJ6qEGp",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244817449533046786",
@@ -990,7 +1038,7 @@
       "url": "https://www.bilibili.com/video/BV1kdbJ6qEzW",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244812950581018627",
@@ -1006,7 +1054,7 @@
       "url": "https://www.bilibili.com/opus/1244812950581018627",
       "author_action": "",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244812950579970056",
@@ -1022,7 +1070,7 @@
       "url": "https://www.bilibili.com/opus/1244812950579970056",
       "author_action": "",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244806505933307938",
@@ -1038,7 +1086,7 @@
       "url": "https://www.bilibili.com/video/BV12ctn6gE5p",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244805311942885413",
@@ -1054,7 +1102,7 @@
       "url": "https://www.bilibili.com/video/BV1C9b76cEks",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244805264737042498",
@@ -1070,7 +1118,7 @@
       "url": "https://www.bilibili.com/opus/1244805264737042498",
       "author_action": "",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244805247530958884",
@@ -1086,7 +1134,7 @@
       "url": "https://www.bilibili.com/video/BV1LZtE6WEor",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244805219649323025",
@@ -1102,7 +1150,7 @@
       "url": "https://www.bilibili.com/opus/1244805219649323025",
       "author_action": "",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244805219630448645",
@@ -1118,7 +1166,7 @@
       "url": "https://www.bilibili.com/opus/1244805219630448645",
       "author_action": "",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244805219604234245",
@@ -1134,7 +1182,7 @@
       "url": "https://www.bilibili.com/opus/1244805219604234245",
       "author_action": "",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244805219602137107",
@@ -1150,7 +1198,7 @@
       "url": "https://www.bilibili.com/opus/1244805219602137107",
       "author_action": "",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244805219601088548",
@@ -1166,7 +1214,7 @@
       "url": "https://www.bilibili.com/opus/1244805219601088548",
       "author_action": "",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244804882433572864",
@@ -1196,7 +1244,7 @@
         "author_action": "与他人联合创作"
       },
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244800797933305859",
@@ -1212,7 +1260,7 @@
       "url": "https://www.bilibili.com/opus/1244800797933305859",
       "author_action": "",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244800323368779793",
@@ -1228,7 +1276,7 @@
       "url": "https://www.bilibili.com/opus/1244800323368779793",
       "author_action": "",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244799807975849986",
@@ -1244,7 +1292,7 @@
       "url": "https://www.bilibili.com/opus/1244799807975849986",
       "author_action": "",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244798925374750721",
@@ -1260,7 +1308,7 @@
       "url": "https://www.bilibili.com/video/BV159bn6ZEnS",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244792341184643073",
@@ -1276,7 +1324,7 @@
       "url": "https://www.bilibili.com/video/BV1aVbE67EgQ",
       "author_action": "与他人联合创作",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244792334689763328",
@@ -1292,7 +1340,7 @@
       "url": "https://www.bilibili.com/opus/1244792334689763328",
       "author_action": "",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244789772782665749",
@@ -1322,7 +1370,7 @@
         "author_action": ""
       },
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244789772740722800",
@@ -1352,7 +1400,7 @@
         "author_action": ""
       },
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244789757760765973",
@@ -1368,7 +1416,7 @@
       "url": "https://www.bilibili.com/opus/1244789757760765973",
       "author_action": "",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244785892297539592",
@@ -1384,7 +1432,7 @@
       "url": "https://www.bilibili.com/opus/1244785892297539592",
       "author_action": "",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244784077615136776",
@@ -1400,7 +1448,7 @@
       "url": "https://www.bilibili.com/video/BV1JCbn6vE7K",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244780641698971712",
@@ -1416,7 +1464,7 @@
       "url": "https://www.bilibili.com/opus/1244780641698971712",
       "author_action": "",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244778833482088455",
@@ -1432,7 +1480,7 @@
       "url": "https://www.bilibili.com/video/BV1PLbH6CEaG",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244778610161614848",
@@ -1448,7 +1496,7 @@
       "url": "https://www.bilibili.com/video/BV1WLbH6CELx",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244778099060506627",
@@ -1464,7 +1512,7 @@
       "url": "https://www.bilibili.com/video/BV1WLbH6CEkr",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244775895753818162",
@@ -1494,7 +1542,7 @@
         "author_action": "投稿了视频"
       },
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244774426869760009",
@@ -1510,7 +1558,7 @@
       "url": "https://www.bilibili.com/opus/1244774426869760009",
       "author_action": "投稿了文章",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244774319470411809",
@@ -1526,7 +1574,7 @@
       "url": "https://www.bilibili.com/video/BV1bst26SEjQ",
       "author_action": "与他人联合创作",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244772403892977683",
@@ -1542,7 +1590,7 @@
       "url": "https://www.bilibili.com/opus/1244772403892977683",
       "author_action": "",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244762441776103444",
@@ -1558,7 +1606,7 @@
       "url": "https://www.bilibili.com/opus/1244762441776103444",
       "author_action": "",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244762242044395527",
@@ -1574,7 +1622,7 @@
       "url": "https://www.bilibili.com/opus/1244762242044395527",
       "author_action": "投稿了文章",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244760120287559685",
@@ -1590,7 +1638,7 @@
       "url": "https://www.bilibili.com/video/BV1Aqtq6DEBh",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244758833941708819",
@@ -1606,7 +1654,7 @@
       "url": "https://www.bilibili.com/opus/1244758833941708819",
       "author_action": "",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244749556867923977",
@@ -1622,7 +1670,7 @@
       "url": "https://www.bilibili.com/opus/1244749556867923977",
       "author_action": "",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244744658407391255",
@@ -1638,7 +1686,7 @@
       "url": "https://www.bilibili.com/video/BV1p9te6GEhR",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244739573223784464",
@@ -1654,7 +1702,7 @@
       "url": "https://www.bilibili.com/video/BV1eXbE6DEJR",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     },
     {
       "id": "1244704719545303047",
@@ -1670,341 +1718,7 @@
       "url": "https://www.bilibili.com/video/BV1ELbL6JEFw",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-05T23:29:54Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
-    },
-    {
-      "id": "1244626834614648832",
-      "kind": "video",
-      "dynamic_type": "DYNAMIC_TYPE_AV",
-      "major_type": "MAJOR_TYPE_ARCHIVE",
-      "up": "空灵雨迹",
-      "up_uid": "223902",
-      "published_at": "2026-09-05T16:27:47Z",
-      "published_ts": 1788625667,
-      "title": "【9月7日/大西沙织&长谷川育美】暴怒千金发誓复仇。 第10话  预告【F宅/1080P+】",
-      "text": "#F宅字幕组##暴怒千金发誓复仇。##大西沙织##长谷川育美##小仓唯##芹泽优##石上静香##高野麻里佳##濑户麻沙美#",
-      "url": "https://www.bilibili.com/video/BV16db76fEQy",
-      "author_action": "投稿了视频",
-      "first_seen_at": "2026-09-05T17:30:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
-    },
-    {
-      "id": "1244625632028000256",
-      "kind": "video",
-      "dynamic_type": "DYNAMIC_TYPE_AV",
-      "major_type": "MAJOR_TYPE_ARCHIVE",
-      "up": "空灵雨迹",
-      "up_uid": "223902",
-      "published_at": "2026-09-05T16:23:07Z",
-      "published_ts": 1788625387,
-      "title": "【9月/扮猪吃老虎】说出这边交给我你们先走以后十年过去成了传说。第10话 预告(石川由依&M·A·O&小坂井祐莉绘&丸冈和佳奈)【F宅/1080P+】",
-      "text": "#『你们先走我断后』，于是10年后我成为了传说##『你们先走我断后』##于是10年后我成为了传说##F宅字幕组##说出这边交给我你们先走以后十年过去成了传说。##石川由依##梶原岳人##相良茉优##M·A·O##小坂井祐莉绘##森川智之##丸冈和佳奈##照井悠希##宮咲あかり#",
-      "url": "https://www.bilibili.com/video/BV1pQb76YE1L",
-      "author_action": "投稿了视频",
-      "first_seen_at": "2026-09-05T17:30:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
-    },
-    {
-      "id": "1244619677062135808",
-      "kind": "dynamic",
-      "dynamic_type": "DYNAMIC_TYPE_DRAW",
-      "major_type": "MAJOR_TYPE_OPUS",
-      "up": "HIKARI-FIELD",
-      "up_uid": "41883712",
-      "published_at": "2026-09-05T16:00:00Z",
-      "published_ts": 1788624000,
-      "title": "https://store.hikarifield.co.jp/bundles/4 《淑女同萌！》 《淑女同萌！-New Division-》 《月影魅像-解放…",
-      "text": "https://store.hikarifield.co.jp/bundles/4\n\n《淑女同萌！》\n《淑女同萌！-New Division-》\n《月影魅像-解放之羽-》\n《淑女同萌！-Superior Entelecheia-》\n《五色浮影绽放于花之海洋》\n《交汇协奏曲》\n\n上述作品现正以套装形式在HIKARI FIELD STORE以超值价格特卖中！\n购买游戏套装不仅可享单品之间的联动折扣，还可根据购买数量获得额外金额减免。套装机制支持补全购买，即便已拥有部分内容仍可购买。\n\n例如：购买包含 5 款游戏的套装，若一次性购买全部 5 款，则除套装内自带折扣外，还可额外减免 5 元。购买数量越多，减免金额越高。\n\n#HIKARIFIELD# #GALGAME# #GAL# #游戏# #STEAM游戏# #STEAM#  #视觉小说类游戏# #视觉小说#",
-      "url": "https://www.bilibili.com/opus/1244619677062135808",
-      "author_action": "",
-      "first_seen_at": "2026-09-05T17:30:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
-    },
-    {
-      "id": "1244619442987466761",
-      "kind": "video",
-      "dynamic_type": "DYNAMIC_TYPE_AV",
-      "major_type": "MAJOR_TYPE_ARCHIVE",
-      "up": "辣条拌饭可以吗",
-      "up_uid": "74354153",
-      "published_at": "2026-09-05T15:59:06Z",
-      "published_ts": 1788623946,
-      "title": "鬼武者 p2",
-      "text": "",
-      "url": "https://www.bilibili.com/video/BV17jbL6UEm8",
-      "author_action": "投稿了视频",
-      "first_seen_at": "2026-09-05T17:30:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
-    },
-    {
-      "id": "1244618322002051109",
-      "kind": "video",
-      "dynamic_type": "DYNAMIC_TYPE_AV",
-      "major_type": "MAJOR_TYPE_ARCHIVE",
-      "up": "辣条拌饭可以吗",
-      "up_uid": "74354153",
-      "published_at": "2026-09-05T15:54:45Z",
-      "published_ts": 1788623685,
-      "title": "表弟vs罗掌愿",
-      "text": "",
-      "url": "https://www.bilibili.com/video/BV1ojbL6mE2E",
-      "author_action": "投稿了视频",
-      "first_seen_at": "2026-09-05T17:30:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
-    },
-    {
-      "id": "1244611819404787731",
-      "kind": "article",
-      "dynamic_type": "DYNAMIC_TYPE_ARTICLE",
-      "major_type": "MAJOR_TYPE_OPUS",
-      "up": "Cykle_",
-      "up_uid": "524942127",
-      "published_at": "2026-09-05T15:29:31Z",
-      "published_ts": 1788622171,
-      "title": "[鬼泣5mod日志?]比较简易的wem唇型嵌入工具",
-      "text": "简单(?)办了下包含面部绑定mod在安装对应语音mod后，嘴唇无动作的解决方案\n拷打了GPT写出来个这玩意来，简陋了些但是在我目前的需求下暂时够用(winUI3界面，暂不确定win10能不能用)\n在这之前，需要预先准备好经过转换的wem文件，建议用Wwise转换音频\n导入可以手动拖拽若干个wem文件到待处理wem面板中，也可以按“添加wem文件”来手动选择wem文件，或者“扫描目录”来自动选择包含wem的文件。软件会自行检索wem内是否包含唇型信息，同时可以进行自动插入/替换数据。\n...",
-      "url": "https://www.bilibili.com/opus/1244611819404787731",
-      "author_action": "投稿了文章",
-      "first_seen_at": "2026-09-05T17:30:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
-    },
-    {
-      "id": "1244604646778994696",
-      "kind": "dynamic",
-      "dynamic_type": "DYNAMIC_TYPE_DRAW",
-      "major_type": "MAJOR_TYPE_OPUS",
-      "up": "影之诗调戏专员",
-      "up_uid": "14553873",
-      "published_at": "2026-09-05T15:01:41Z",
-      "published_ts": 1788620501,
-      "title": "#SNC2026# #海选终轮# 2026年SNC海选终轮，终于决出的最终的8强选手！ 让我们恭喜这8名选手获得了SNC2026总决赛的参赛资格，同时也感谢各位…",
-      "text": "#SNC2026# #海选终轮# \n2026年SNC海选终轮，终于决出的最终的8强选手！\n让我们恭喜这8名选手获得了SNC2026总决赛的参赛资格，同时也感谢各位选手精彩的表现让我们大饱眼福。\n让我们一起期待9月19日的SNC总决赛赛场上各位选手的表现吧！",
-      "url": "https://www.bilibili.com/opus/1244604646778994696",
-      "author_action": "",
-      "first_seen_at": "2026-09-05T17:30:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
-    },
-    {
-      "id": "1244603800705040402",
-      "kind": "video",
-      "dynamic_type": "DYNAMIC_TYPE_AV",
-      "major_type": "MAJOR_TYPE_ARCHIVE",
-      "up": "STN工作室",
-      "up_uid": "7349",
-      "published_at": "2026-09-05T14:58:24Z",
-      "published_ts": 1788620304,
-      "title": "好看好玩（但真的不好吃），德国科隆游戏展",
-      "text": "这次去德国见到了很多没落榜的艺术家（试玩游戏的具体感受会在本周快报的内容中呈现）",
-      "url": "https://www.bilibili.com/video/BV1RpbL6CEiB",
-      "author_action": "投稿了视频",
-      "first_seen_at": "2026-09-05T17:30:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
-    },
-    {
-      "id": "1244601966724644887",
-      "kind": "video",
-      "dynamic_type": "DYNAMIC_TYPE_AV",
-      "major_type": "MAJOR_TYPE_ARCHIVE",
-      "up": "老顾不烦",
-      "up_uid": "240650947",
-      "published_at": "2026-09-05T14:51:17Z",
-      "published_ts": 1788619877,
-      "title": "版本最新角色排行榜！萌新必看，童叟无欺！【Star Savior】",
-      "text": "SS最新强度榜来啦！",
-      "url": "https://www.bilibili.com/video/BV18abL6BEv1",
-      "author_action": "投稿了视频",
-      "first_seen_at": "2026-09-05T17:30:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
-    },
-    {
-      "id": "1244600562293407811",
-      "kind": "video",
-      "dynamic_type": "DYNAMIC_TYPE_AV",
-      "major_type": "MAJOR_TYPE_ARCHIVE",
-      "up": "伊布力斯",
-      "up_uid": "471517112",
-      "published_at": "2026-09-05T14:45:50Z",
-      "published_ts": 1788619550,
-      "title": "天下布魔 浮世妖刀 藤花 属性立绘一览",
-      "text": "-",
-      "url": "https://www.bilibili.com/video/BV126bL6wEPw",
-      "author_action": "投稿了视频",
-      "first_seen_at": "2026-09-05T17:30:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
-    },
-    {
-      "id": "1244588753292361737",
-      "kind": "dynamic",
-      "dynamic_type": "DYNAMIC_TYPE_DRAW",
-      "major_type": "MAJOR_TYPE_OPUS",
-      "up": "二柄APP",
-      "up_uid": "90668673",
-      "published_at": "2026-09-05T14:00:00Z",
-      "published_ts": 1788616800,
-      "title": "#深夜尬聊#游戏地图并不是越大越好，今晚来聊聊最让你难受的 “游戏世界设计槽点” 是什么（欢迎补充，图文无关）？ A、空气墙遍地都是 看着能走实则过不去 B、山…",
-      "text": "#深夜尬聊#游戏地图并不是越大越好，今晚来聊聊最让你难受的 “游戏世界设计槽点” 是什么（欢迎补充，图文无关）？\nA、空气墙遍地都是 看着能走实则过不去\nB、山路绕来绕去直线距离两步远\nC、地图标识模糊找地方全靠瞎撞\nD、快速旅行点少得可怜跑断腿",
-      "url": "https://www.bilibili.com/opus/1244588753292361737",
-      "author_action": "",
-      "first_seen_at": "2026-09-05T17:30:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
-    },
-    {
-      "id": "1244587518446272512",
-      "kind": "dynamic",
-      "dynamic_type": "DYNAMIC_TYPE_DRAW",
-      "major_type": "MAJOR_TYPE_OPUS",
-      "up": "绀青之空",
-      "up_uid": "1020115750",
-      "published_at": "2026-09-05T13:55:13Z",
-      "published_ts": 1788616513,
-      "title": "“I love it when you call me SeñoRita”",
-      "text": "“I love it when you call me SeñoRita”",
-      "url": "https://www.bilibili.com/opus/1244587518446272512",
-      "author_action": "",
-      "first_seen_at": "2026-09-05T17:30:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
-    },
-    {
-      "id": "1244587376761634840",
-      "kind": "video",
-      "dynamic_type": "DYNAMIC_TYPE_AV",
-      "major_type": "MAJOR_TYPE_ARCHIVE",
-      "up": "空灵雨迹",
-      "up_uid": "223902",
-      "published_at": "2026-09-05T13:54:40Z",
-      "published_ts": 1788616480,
-      "title": "【9月】才女的侍从(才女的男保姆)  第10话 预告[小原好美&大西沙织&土屋李央&小清水亚美&子安武人]【F宅/1080P+】",
-      "text": "#F宅字幕组##才女的侍从##才女的男保姆##才女的近侍##小原好美##大西沙织##土屋李央##小清水亚美##子安武人##上村祐翔##毫无生活自理能力##爱撒娇又懒散的千金小姐#",
-      "url": "https://www.bilibili.com/video/BV1qFbj6EEHM",
-      "author_action": "投稿了视频",
-      "first_seen_at": "2026-09-05T17:30:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
-    },
-    {
-      "id": "1244584408902533129",
-      "kind": "video",
-      "dynamic_type": "DYNAMIC_TYPE_AV",
-      "major_type": "MAJOR_TYPE_ARCHIVE",
-      "up": "空灵雨迹",
-      "up_uid": "223902",
-      "published_at": "2026-09-05T13:43:09Z",
-      "published_ts": 1788615789,
-      "title": "【9月5日】鬼的新娘  第10话 预告(早见沙织&梅原裕一郎&石见舞菜香)【F宅/1080P+】",
-      "text": "#F宅字幕组##鬼的新娘##早见沙织##梅原裕一郎##石见舞菜香##逢坂良太##千本木彩花##花江夏树##岛崎信长##远藤绫##寺泽百花##小桥美忧#",
-      "url": "https://www.bilibili.com/video/BV1BobL6nErh",
-      "author_action": "投稿了视频",
-      "first_seen_at": "2026-09-05T17:30:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
-    },
-    {
-      "id": "1244581982248108038",
-      "kind": "repost",
-      "dynamic_type": "DYNAMIC_TYPE_FORWARD",
-      "major_type": "",
-      "up": "Galgame批评",
-      "up_uid": "2072586344",
-      "published_at": "2026-09-05T13:33:44Z",
-      "published_ts": 1788615224,
-      "title": "[打call]",
-      "text": "[打call]",
-      "url": "https://t.bilibili.com/1244581982248108038",
-      "author_action": "",
-      "original": {
-        "id": "1244529270112387094",
-        "kind": "article",
-        "dynamic_type": "DYNAMIC_TYPE_ARTICLE",
-        "major_type": "MAJOR_TYPE_OPUS",
-        "up": "Miss-追梦者",
-        "up_uid": "19212824",
-        "published_at": "2026-09-05T10:09:11Z",
-        "published_ts": 1788602951,
-        "title": "【2DM纪念版】后“白银时代”——2017~2025年Galgame年代记",
-        "text": "声明：本专栏转载内容来源于国内老牌ACG刊物《二次元狂热》第200期（纪念版），原文作者为“苏末末”。如果大家对目前这类发展艰难的ACG纸媒杂志感兴趣，也欢迎多多支持正版实体刊物！本专栏为非盈利性质，仅作为ACG文化分享与经验学习交流使用~\n本期关键词：Galgame，游戏推荐，历史盘点向。\n笔者的前言导视：\n突然发觉自己似乎很多年都没有更新2DM的Gal文章搬运系列了，而在这段停更期间，2DM依然维持着稳定的月更频率，并于今年出版了其第200期纪念刊——作为信息化爆炸时代下老牌ACG纸媒杂志，达成这样的成就实属不容易，我也是第一时间买了本支持一下！\n...",
-        "url": "https://www.bilibili.com/opus/1244529270112387094",
-        "author_action": "投稿了文章"
-      },
-      "first_seen_at": "2026-09-05T17:30:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
-    },
-    {
-      "id": "1244573291411144711",
-      "kind": "dynamic",
-      "dynamic_type": "DYNAMIC_TYPE_DRAW",
-      "major_type": "MAJOR_TYPE_OPUS",
-      "up": "二柄APP",
-      "up_uid": "90668673",
-      "published_at": "2026-09-05T13:00:00Z",
-      "published_ts": 1788613200,
-      "title": "【Epic CEO 称游戏行业正遭遇第二次行业崩盘】Epic Games 首席执行官蒂姆・斯维尼在《Edge》杂志专访中表态，当前全球游戏行业正经历自 1983…",
-      "text": "【Epic CEO 称游戏行业正遭遇第二次行业崩盘】Epic Games 首席执行官蒂姆・斯维尼在《Edge》杂志专访中表态，当前全球游戏行业正经历自 1983 年北美主机市场崩盘以来最严重的第二次行业危机，核心诱因是 AI 产业抢占硬件产能导致元器件价格暴涨。\n\n斯维尼指出，全球 AI 系统与数据中心正迎来空前投资浪潮，相关产业能以更高出价竞购全部电子元器件，游戏产业在供应链中处于劣势。受此影响 RAM 与存储价格已上涨四倍，且涨势尚未见顶，终端市场已体现出明显的价格压力。他预计游戏相关硬件的供应危机将持续三年，直至大规模新建芯片工厂投产缓解产能缺口，期间下一代主机的发布节奏可能出现延误。",
-      "url": "https://www.bilibili.com/opus/1244573291411144711",
-      "author_action": "",
-      "first_seen_at": "2026-09-05T17:30:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
-    },
-    {
-      "id": "1244573291378638848",
-      "kind": "dynamic",
-      "dynamic_type": "DYNAMIC_TYPE_DRAW",
-      "major_type": "MAJOR_TYPE_OPUS",
-      "up": "HIKARI-FIELD",
-      "up_uid": "41883712",
-      "published_at": "2026-09-05T13:00:00Z",
-      "published_ts": 1788613200,
-      "title": "《淑女同萌！-New Division-》官方中文版现正于Steam促销热卖中！最低仅需19元即可入手！ https://store.steampowered.…",
-      "text": "《淑女同萌！-New Division-》官方中文版现正于Steam促销热卖中！最低仅需19元即可入手！\nhttps://store.steampowered.com/app/1025070\n\n本作内置简体中文、繁体中文与日文三版本，并支持集换卡牌、云存储以及游戏手柄操作等附加功能，同时也支持额外内容。\n\n《淑女同萌！-New Division-》是晓WORKS于2014年末发售的校园爱情悬疑作品《淑女同萌！》的外传故事（FAN DISC）。游戏剧情采用了双线叙事模式，以在《淑女同萌！》本篇中人气极高的两位女配角菱吾森和兜山美鸟为主角，讲述了属于她们各自的故事。是一款本篇玩家不可错过的精彩外传。\n我们衷心向您推荐前作《淑女同萌！》，玩过前作后再玩本作，会对本作主人公的代入感与人物关系设置、剧情前要都会有体验上的相当提升。\n\n#HIKARIFIELD# #GALGAME# #GAL# #游戏# #STEAM游戏# #STEAM#  #视觉小说类游戏# #视觉小说#",
-      "url": "https://www.bilibili.com/opus/1244573291378638848",
-      "author_action": "",
-      "first_seen_at": "2026-09-05T17:30:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
-    },
-    {
-      "id": "1244565807432728609",
-      "kind": "video",
-      "dynamic_type": "DYNAMIC_TYPE_AV",
-      "major_type": "MAJOR_TYPE_ARCHIVE",
-      "up": "A9VG",
-      "up_uid": "19432127",
-      "published_at": "2026-09-05T12:30:58Z",
-      "published_ts": 1788611458,
-      "title": "种田战斗派对游戏《嗨斗农场》（Planted!）10月29日发售",
-      "text": "种田战斗派对游戏《嗨斗农场》（Planted!）将于10月29日发售，平台PC、PS5、XSX|S、NS。\n在这里，农场是战场，庄稼是武器，“照顾庄稼”和“发射庄稼”之间的距离也没你想象的那么遥远。更多详情见视频简介。",
-      "url": "https://www.bilibili.com/video/BV1pbbj6bE5x",
-      "author_action": "投稿了视频",
-      "first_seen_at": "2026-09-05T17:30:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
-    },
-    {
-      "id": "1244563492445356053",
-      "kind": "video",
-      "dynamic_type": "DYNAMIC_TYPE_AV",
-      "major_type": "MAJOR_TYPE_ARCHIVE",
-      "up": "A9VG",
-      "up_uid": "19432127",
-      "published_at": "2026-09-05T12:21:59Z",
-      "published_ts": 1788610919,
-      "title": "《怪物猎人荒野 凌越》武器介绍视频：大锤",
-      "text": "《怪物猎人荒野 凌越》武器介绍视频：大锤，本作将于2027年推出。\n\n新要素“增幅护腕”带来全新的动作，使狩猎动作进一步进化。\n\n【增幅动作是什么】\n启动“增幅护腕”后，猎人的动作性能会在一定时间内得到强化，并可使用全新招式与衍生。\n透过启动“增幅护腕”并同时施展强力攻击的新动作“增幅发动动作”，以及活用能在一定时间内强化各种动作的“增幅状态”，迎战强大的怪物。",
-      "url": "https://www.bilibili.com/video/BV1Wxbj6hE6Y",
-      "author_action": "投稿了视频",
-      "first_seen_at": "2026-09-05T17:30:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
-    },
-    {
-      "id": "1244562543248146453",
-      "kind": "dynamic",
-      "dynamic_type": "DYNAMIC_TYPE_DRAW",
-      "major_type": "MAJOR_TYPE_OPUS",
-      "up": "二柄APP",
-      "up_uid": "90668673",
-      "published_at": "2026-09-05T12:18:18Z",
-      "published_ts": 1788610698,
-      "title": "【传闻称《GTA6》PC 版或将早于预期推出 主机供货缺口推动移植提速】《GTA6》已确认首发为 PS5 与 Xbox Series X|S 主机独占，将于 1…",
-      "text": "【传闻称《GTA6》PC 版或将早于预期推出 主机供货缺口推动移植提速】《GTA6》已确认首发为 PS5 与 Xbox Series X|S 主机独占，将于 11 月 19 日正式上线，后续 PC 版将带来更优的性能表现。据 VGC 记者透露，业内已有相关风声，R星正考虑加快 PC 版移植进度，上线时间可能比玩家预期更早。\n\n消息指出，主机硬件供给压力是 PC 版提速的核心因素。受游戏发售带动的硬件需求激增影响，PS5 与 PS5 Pro 主机在发售窗口期可能出现供货紧张，推动厂商提前布局 PC 端分流玩家需求。同时当代主机架构与 PC 的相似度高于以往，大幅降低了移植技术门槛，为快速推出 PC 版提供了支撑。不过目前该消息仅为业内传闻，R星暂未宣布更多PC版的相关消息。",
-      "url": "https://www.bilibili.com/opus/1244562543248146453",
-      "author_action": "",
-      "first_seen_at": "2026-09-05T17:30:03Z",
-      "last_seen_at": "2026-09-06T17:30:27Z"
+      "last_seen_at": "2026-09-06T23:30:52Z"
     }
   ]
 }
