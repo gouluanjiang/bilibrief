@@ -1,9 +1,681 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-06T05:26:39Z",
+  "generated_at": "2026-09-06T11:31:03Z",
   "window_hours": 30,
-  "count": 132,
+  "count": 144,
   "items": [
+    {
+      "id": "1244920627509329943",
+      "kind": "dynamic",
+      "dynamic_type": "DYNAMIC_TYPE_DRAW",
+      "major_type": "MAJOR_TYPE_OPUS",
+      "up": "幽默老日",
+      "up_uid": "3546848910379375",
+      "published_at": "2026-09-06T11:27:51Z",
+      "published_ts": 1788694071,
+      "title": "这几年我在家里做咸鱼茄子煲的时候，遇到的最大阻碍不是技术问题，是咸鱼不够臭😡各种各样的咸鱼都买遍了，没一个能满足我对臭的要求，甚至去外面下馆子点的也毫无臭味😡我…",
+      "text": "这几年我在家里做咸鱼茄子煲的时候，遇到的最大阻碍不是技术问题，是咸鱼不够臭😡各种各样的咸鱼都买遍了，没一个能满足我对臭的要求，甚至去外面下馆子点的也毫无臭味😡我记得我小时候这玩意是臭得很够劲的，现在想买都买不到😡",
+      "url": "https://www.bilibili.com/opus/1244920627509329943",
+      "author_action": "",
+      "first_seen_at": "2026-09-06T11:31:03Z",
+      "last_seen_at": "2026-09-06T11:31:03Z"
+    },
+    {
+      "id": "1244911397647679521",
+      "kind": "dynamic",
+      "dynamic_type": "DYNAMIC_TYPE_DRAW",
+      "major_type": "MAJOR_TYPE_OPUS",
+      "up": "英梨梨的男友",
+      "up_uid": "3100644",
+      "published_at": "2026-09-06T10:52:02Z",
+      "published_ts": 1788691922,
+      "title": "今日国际服饼图，龙爷你怎么了龙爷，这个剧本我怎么感觉在上个版本看过了[甜蜜时光表情包_？] 妖精大概率在明天就反超法师，变为第二职业了。 不知道什么时候可以反超…",
+      "text": "今日国际服饼图，龙爷你怎么了龙爷，这个剧本我怎么感觉在上个版本看过了[甜蜜时光表情包_？]\n妖精大概率在明天就反超法师，变为第二职业了。\n不知道什么时候可以反超梦魇，高手妖精真是武兵纸第一名啊。\n顺带现在主教CR第一是骰子教。",
+      "url": "https://www.bilibili.com/opus/1244911397647679521",
+      "author_action": "",
+      "first_seen_at": "2026-09-06T11:31:03Z",
+      "last_seen_at": "2026-09-06T11:31:03Z"
+    },
+    {
+      "id": "1244905921542357015",
+      "kind": "video",
+      "dynamic_type": "DYNAMIC_TYPE_AV",
+      "major_type": "MAJOR_TYPE_ARCHIVE",
+      "up": "二重螺旋",
+      "up_uid": "3461571554577304",
+      "published_at": "2026-09-06T10:30:47Z",
+      "published_ts": 1788690647,
+      "title": "✦ 全新角色魔之楔全新角色魔之楔【榛子大冲击】前瞻演示为您献上。",
+      "text": "✦ 全新角色魔之楔\n\n全新角色魔之楔【榛子大冲击】前瞻演示为您献上。",
+      "url": "https://www.bilibili.com/video/BV1axbs6YEG8",
+      "author_action": "发布了动态视频",
+      "first_seen_at": "2026-09-06T11:31:03Z",
+      "last_seen_at": "2026-09-06T11:31:03Z"
+    },
+    {
+      "id": "1244904433364500488",
+      "kind": "dynamic",
+      "dynamic_type": "DYNAMIC_TYPE_DRAW",
+      "major_type": "MAJOR_TYPE_OPUS",
+      "up": "二柄APP",
+      "up_uid": "90668673",
+      "published_at": "2026-09-06T10:25:00Z",
+      "published_ts": 1788690300,
+      "title": "【新四叶草规模扩大！神谷英树称《大神》新作开发理念与Capcom高度一致】新四叶草（CLOVERS）负责人神谷英树近日在接受VGC采访时透露，目前工作室员工人数…",
+      "text": "【新四叶草规模扩大！神谷英树称《大神》新作开发理念与Capcom高度一致】新四叶草（CLOVERS）负责人神谷英树近日在接受VGC采访时透露，目前工作室员工人数已经超过70人，团队规模相比成立初期有了明显扩大。\n\n谈及与《大神》新作发行方Capcom的合作关系时神谷表示，双方目前保持着非常良好的合作状态，并且在游戏开发理念上高度一致。他强调道，由于双方建立了相互信任的关系，Capcom给予了较大的开发自主权，让团队能够专注于创造游戏本身。\n\n《大神》新作于2024年的TGA活动上正式亮相，神谷英树担任该项目的首席设计师。目前这款作品正在开发中，具体发售时间尚未公布。",
+      "url": "https://www.bilibili.com/opus/1244904433364500488",
+      "author_action": "",
+      "first_seen_at": "2026-09-06T11:31:03Z",
+      "last_seen_at": "2026-09-06T11:31:03Z"
+    },
+    {
+      "id": "1244901128406040582",
+      "kind": "video",
+      "dynamic_type": "DYNAMIC_TYPE_AV",
+      "major_type": "MAJOR_TYPE_ARCHIVE",
+      "up": "ZP-",
+      "up_uid": "9038245",
+      "published_at": "2026-09-06T10:12:11Z",
+      "published_ts": 1788689531,
+      "title": "【鬼武者:剑之道】武藏大人，释放一闪吧！（源义经简单无伤）",
+      "text": "鬼武者剑之道爽战前三：\n一：源义经\n二：畏风抚雷混双\n三：怒伐天",
+      "url": "https://www.bilibili.com/video/BV1uybH69ERT",
+      "author_action": "投稿了视频",
+      "first_seen_at": "2026-09-06T11:31:03Z",
+      "last_seen_at": "2026-09-06T11:31:03Z"
+    },
+    {
+      "id": "1244899388955820041",
+      "kind": "video",
+      "dynamic_type": "DYNAMIC_TYPE_AV",
+      "major_type": "MAJOR_TYPE_ARCHIVE",
+      "up": "伊布力斯",
+      "up_uid": "471517112",
+      "published_at": "2026-09-06T10:05:26Z",
+      "published_ts": 1788689126,
+      "title": "TKFM 终焉魔剑 薇塔 属性立绘一览",
+      "text": "-",
+      "url": "https://www.bilibili.com/video/BV1TSbH6nEYv",
+      "author_action": "投稿了视频",
+      "first_seen_at": "2026-09-06T11:31:03Z",
+      "last_seen_at": "2026-09-06T11:31:03Z"
+    },
+    {
+      "id": "1244898010250346566",
+      "kind": "article",
+      "dynamic_type": "DYNAMIC_TYPE_ARTICLE",
+      "major_type": "MAJOR_TYPE_OPUS",
+      "up": "碧蓝航线",
+      "up_uid": "233114659",
+      "published_at": "2026-09-06T10:00:05Z",
+      "published_ts": 1788688805,
+      "title": "「幽影迷城」即将开启！9月8日10:00港区改建",
+      "text": "各位亲爱的指挥官：\n司令部将于9月8日10:00~16:00对以下港区进行为期6小时的改造建设（如有变动将会另行发布通知）。改建期间将暂时无法进入港区，还请各位指挥官提前做好下线准备，给各位带来的不便敬请谅解。 \n\n『涉及港区』 \n安卓全港区、iOS全港区、HarmonyOS NEXT全港区\n \n『改建内容』\n一、内容新增\n1.开启限时大型活动「幽影迷城」，活动时间9月8日维护后~9月30日23:59\n※参与特别作战累积活动道具「伙伴球」、「辰辉之饰」可获得丰富奖励；\n...",
+      "url": "https://www.bilibili.com/opus/1244898010250346566",
+      "author_action": "投稿了文章",
+      "first_seen_at": "2026-09-06T11:31:03Z",
+      "last_seen_at": "2026-09-06T11:31:03Z"
+    },
+    {
+      "id": "1244897990943965191",
+      "kind": "dynamic",
+      "dynamic_type": "DYNAMIC_TYPE_DRAW",
+      "major_type": "MAJOR_TYPE_OPUS",
+      "up": "HIKARI-FIELD",
+      "up_uid": "41883712",
+      "published_at": "2026-09-06T10:00:00Z",
+      "published_ts": 1788688800,
+      "title": "《铁路浪漫谭》的通贩特典版已经上架",
+      "text": "Lose社热门作品爱上火车的新版本《铁路浪漫谭》的通贩特典版已经上架，数量有限，欲购从速~\n地址:https://h5.m.taobao.com/awp/core/detail.htm?ft=t&id=1020608337599 \n本店所有商品周边海外的官方中文版权均为我司HIKARI FIELD所有，且从未授权给其他人销售，大家购买时请注意甄别。本店所有周边与特典均为顺丰包邮，且支持花呗等多种支付手段。您的每一份支持都是为更多官方中文美少女游戏添砖加瓦~",
+      "url": "https://www.bilibili.com/opus/1244897990943965191",
+      "author_action": "",
+      "first_seen_at": "2026-09-06T11:31:03Z",
+      "last_seen_at": "2026-09-06T11:31:03Z"
+    },
+    {
+      "id": "1244897990924042260",
+      "kind": "dynamic",
+      "dynamic_type": "DYNAMIC_TYPE_DRAW",
+      "major_type": "MAJOR_TYPE_OPUS",
+      "up": "少女前线2-追放制作组",
+      "up_uid": "697654195",
+      "published_at": "2026-09-06T10:00:00Z",
+      "published_ts": 1788688800,
+      "title": "#少前2追放# #少前2# #金翅雀与橄榄枝# #少前2希丽雅# ✦限时活动✦ 尊敬的指挥官，限时活动【织愿之扉】于2026年9月7日 05:00~2026年9…",
+      "text": "#少前2追放# #少前2# #金翅雀与橄榄枝# #少前2希丽雅# ✦限时活动✦\n\n尊敬的指挥官，限时活动【织愿之扉】于2026年9月7日 05:00~2026年9月22日 08:59开启！\n\n■在玩法【织愿之扉】中，指挥官可以在活动层中实现人形们的心愿，获取各种回礼并解锁剧情。\n*完成人形心愿可以获得奖励\n*完成所有人形心愿可以解锁如愿之后剧情\n\n详情可往游戏内查看。\n\n================\n※《少女前线2：追放》游戏下载：https://gf2exilum.biligame.com/yy/",
+      "url": "https://www.bilibili.com/opus/1244897990924042260",
+      "author_action": "",
+      "first_seen_at": "2026-09-06T11:31:03Z",
+      "last_seen_at": "2026-09-06T11:31:03Z"
+    },
+    {
+      "id": "1244895776875741221",
+      "kind": "video",
+      "dynamic_type": "DYNAMIC_TYPE_AV",
+      "major_type": "MAJOR_TYPE_ARCHIVE",
+      "up": "老顾不烦",
+      "up_uid": "240650947",
+      "published_at": "2026-09-06T09:51:25Z",
+      "published_ts": 1788688285,
+      "title": "卡池不歪！改版米池吗黄鸡你这家伙......【蓝色星原】",
+      "text": "简单来说就是卡池不歪了，不歪的米池",
+      "url": "https://www.bilibili.com/video/BV1o8bH6AEjt",
+      "author_action": "投稿了视频",
+      "first_seen_at": "2026-09-06T11:31:03Z",
+      "last_seen_at": "2026-09-06T11:31:03Z"
+    },
+    {
+      "id": "1244895682353954817",
+      "kind": "article",
+      "dynamic_type": "DYNAMIC_TYPE_ARTICLE",
+      "major_type": "MAJOR_TYPE_OPUS",
+      "up": "英梨梨的男友",
+      "up_uid": "3100644",
+      "published_at": "2026-09-06T09:51:03Z",
+      "published_ts": 1788688263,
+      "title": "Shadowverse EVOLVE 9月6日公开新卡",
+      "text": "[图片]\n逆时巫师（进化前） 巫师职业 魔法使类型\n进化 费用1：此卡进化。\n自己的回合中，当卡牌置入我方消失领域时，选择1个敌方战场上的随从。对其造成1点伤害。\n入场曲 如果我方消失领域的卡牌为10张以上，本回合中，我方下次置入战场的巫师随从为1个以上时，选择其中1个进化。\n[图片]\n逆时巫师（进化后） 巫师职业 魔法使类型\n自己的回合中，当卡牌置入我方消失领域时，选择1个敌方战场上的随从。对其造成1点伤害。\n...",
+      "url": "https://www.bilibili.com/opus/1244895682353954817",
+      "author_action": "投稿了文章",
+      "first_seen_at": "2026-09-06T11:31:03Z",
+      "last_seen_at": "2026-09-06T11:31:03Z"
+    },
+    {
+      "id": "1244892237773406214",
+      "kind": "video",
+      "dynamic_type": "DYNAMIC_TYPE_AV",
+      "major_type": "MAJOR_TYPE_ARCHIVE",
+      "up": "空灵雨迹",
+      "up_uid": "223902",
+      "published_at": "2026-09-06T09:37:41Z",
+      "published_ts": 1788687461,
+      "title": "【2027年/神户守】彼布利亚古书堂事件记事簿 先导PV(明智璃子&武内骏辅)【F宅/1080P+】",
+      "text": "#F宅字幕组##彼布利亚古书堂事件记事簿##神户守##古书堂事件手帖##明智璃子##武内骏辅##文现里亚古书堂##CloverWorks#",
+      "url": "https://www.bilibili.com/video/BV1ZtbH6eEnF",
+      "author_action": "投稿了视频",
+      "first_seen_at": "2026-09-06T11:31:03Z",
+      "last_seen_at": "2026-09-06T11:31:03Z"
+    },
+    {
+      "id": "1244891864155291654",
+      "kind": "video",
+      "dynamic_type": "DYNAMIC_TYPE_AV",
+      "major_type": "MAJOR_TYPE_ARCHIVE",
+      "up": "空灵雨迹",
+      "up_uid": "223902",
+      "published_at": "2026-09-06T09:36:14Z",
+      "published_ts": 1788687374,
+      "title": "【2027年1月/户谷菊之介&渡边美佐&藤真秀】坂本日常 第二季 角色PV(四村周&佐藤田悦子&四村晓)【中字/1080P+】",
+      "text": "#F宅字幕组##坂本日常 第二季##坂本日常第二季##坂本日常##SAKAMOTO DAYS##杉田智和##岛崎信长##佐仓绫音##东山奈央##木野日菜##花江夏树##渡边美佐##户谷菊之介##藤真秀#",
+      "url": "https://www.bilibili.com/video/BV15ibH6FEnh",
+      "author_action": "投稿了视频",
+      "first_seen_at": "2026-09-06T11:31:03Z",
+      "last_seen_at": "2026-09-06T11:31:03Z"
+    },
+    {
+      "id": "1244885363691880472",
+      "kind": "dynamic",
+      "dynamic_type": "DYNAMIC_TYPE_DRAW",
+      "major_type": "MAJOR_TYPE_OPUS",
+      "up": "二柄APP",
+      "up_uid": "90668673",
+      "published_at": "2026-09-06T09:11:00Z",
+      "published_ts": 1788685860,
+      "title": "【此前多项爆料命中！《任天狗》《任天堂全明星大乱斗》等新作传闻再引关注】今年3月，名为“Malo932”的爆料者在社区透露了一系列任天堂新作的相关消息。因其精准…",
+      "text": "【此前多项爆料命中！《任天狗》《任天堂全明星大乱斗》等新作传闻再引关注】今年3月，名为“Malo932”的爆料者在社区透露了一系列任天堂新作的相关消息。因其精准爆料了《星际火狐》的发售日、《塞尔达传说：时之笛 重制版》的上市窗口以及《Nintendo Switch运动 度假胜地》的存在，因此这位“舅舅”其余尚未得到官方确认的传闻，也随着任天堂新一期直面会的公布再次引起玩家关注。\n\nMalo932之前还曾提到：\n1、《任天堂明星大乱斗》新作开发中\n2、《任天狗》将要回归\n3、《马里奥赛车：世界》DLC将于2027年推出\n4、《星际火狐》新作开发中\n5、《瓦里奥大陆》\n6、《超级银河战士》等\n需要注意，上述内容目前均属于爆料，在官方正式公布前仍需谨慎看待。任天堂计划于9月8日、9月9日分别举行《塞尔达传说》40周年直面会和最新一期直面会，届时或许会有相关作品的进一步消息。",
+      "url": "https://www.bilibili.com/opus/1244885363691880472",
+      "author_action": "",
+      "first_seen_at": "2026-09-06T11:31:03Z",
+      "last_seen_at": "2026-09-06T11:31:03Z"
+    },
+    {
+      "id": "1244882956378439703",
+      "kind": "dynamic",
+      "dynamic_type": "DYNAMIC_TYPE_DRAW",
+      "major_type": "MAJOR_TYPE_OPUS",
+      "up": "二柄APP",
+      "up_uid": "90668673",
+      "published_at": "2026-09-06T09:01:40Z",
+      "published_ts": 1788685300,
+      "title": "【大量玩家集中反馈NS2被BAN，具体原因尚待确认】近日有大量NS2用户在社区中表示，自己的Nintendo Switch 2主机疑似遭遇封禁（BAN机）情况。…",
+      "text": "【大量玩家集中反馈NS2被BAN，具体原因尚待确认】近日有大量NS2用户在社区中表示，自己的Nintendo Switch 2主机疑似遭遇封禁（BAN机）情况。相关讨论目前正在玩家群体中持续发酵，不少人分享了自己遇到的问题、错误提示信息以及相关截图。\n\n从目前已知的信息来看，相关消息主要来源于玩家社区反馈，实际受影响玩家数量、问题出现的具体原因以及是否属于大范围事件，暂时还无法得到确认。截至目前，任天堂官方暂未针对此事发布说明，具体情况有待进一步观察。",
+      "url": "https://www.bilibili.com/opus/1244882956378439703",
+      "author_action": "",
+      "first_seen_at": "2026-09-06T11:31:03Z",
+      "last_seen_at": "2026-09-06T11:31:03Z"
+    },
+    {
+      "id": "1244882529031290886",
+      "kind": "dynamic",
+      "dynamic_type": "DYNAMIC_TYPE_DRAW",
+      "major_type": "MAJOR_TYPE_OPUS",
+      "up": "碧蓝航线",
+      "up_uid": "233114659",
+      "published_at": "2026-09-06T09:00:00Z",
+      "published_ts": 1788685200,
+      "title": "#碧蓝航线# ◆活动时间注意◆ 限时特别演习「“大人物”的预告信」将于9月8日10:00结束 ※相关活动任务将于以上时间关闭，还请注意个人贡献值的获得及活动界面…",
+      "text": "#碧蓝航线#\n◆活动时间注意◆\n限时特别演习「“大人物”的预告信」将于9月8日10:00结束\n※相关活动任务将于以上时间关闭，还请注意个人贡献值的获得及活动界面中奖励的获取；\n※活动结束后限时建造也将同时关闭；\n\n◆相关限时上架注意◆\n※限时上架优惠礼包「限时攻略补给」「限时建造补给」「家具币礼包」「心智单元礼包」将于9月7日23:59结束贩售；\n\n以上信息还请指挥官注意(`・ω・´)ゞ",
+      "url": "https://www.bilibili.com/opus/1244882529031290886",
+      "author_action": "",
+      "first_seen_at": "2026-09-06T11:31:03Z",
+      "last_seen_at": "2026-09-06T11:31:03Z"
+    },
+    {
+      "id": "1244877890484437009",
+      "kind": "dynamic",
+      "dynamic_type": "DYNAMIC_TYPE_DRAW",
+      "major_type": "MAJOR_TYPE_OPUS",
+      "up": "二柄APP",
+      "up_uid": "90668673",
+      "published_at": "2026-09-06T08:42:00Z",
+      "published_ts": 1788684120,
+      "title": "【《永恒传说》复刻版版运行规格：全平台支持60帧】经典RPG《永恒传说》复刻版即将于10月15日发售。本作追加了许多便利功能，并支持中文。根据官网显示，游戏在各…",
+      "text": "【《永恒传说》复刻版版运行规格：全平台支持60帧】经典RPG《永恒传说》复刻版即将于10月15日发售。本作追加了许多便利功能，并支持中文。根据官网显示，游戏在各平台上的运行规格如下：\nPS4：1920×1080/最高60帧\nPS5：3840×2160/最高60帧\nXbox Series X：3840×2160/最高60帧\nXbox Series S：2560×1440/最高60帧\nNS：TV模式1920×1080/最高60帧，掌机模式1280×720/最高60帧\nNS2：TV模式3840×2160/最高60帧，掌机模式1920×1080/最高60帧\nSteam：3840×2160（实际表现因配置情况而异）/推荐配置下最高60帧",
+      "url": "https://www.bilibili.com/opus/1244877890484437009",
+      "author_action": "",
+      "first_seen_at": "2026-09-06T11:31:03Z",
+      "last_seen_at": "2026-09-06T11:31:03Z"
+    },
+    {
+      "id": "1244875766573826052",
+      "kind": "article",
+      "dynamic_type": "DYNAMIC_TYPE_ARTICLE",
+      "major_type": "MAJOR_TYPE_OPUS",
+      "up": "凉宫杏杏子",
+      "up_uid": "284113651",
+      "published_at": "2026-09-06T08:33:46Z",
+      "published_ts": 1788683626,
+      "title": "谁外卖点的白毛黑巧短发樱花妹？",
+      "text": "昨天有人问我，杏子杏子：\n“《夏末白夜》里的辉夜奏会在新作中出场吗？”\n会的会的，不仅会出场，并且我们也给她安排了全新的立绘与更丰富的表情差分。\n有谁会不喜欢心思坏坏的黑丝巧克力樱花学妹呢？\n[图片]\n还请多多关注我们的新作《无言初雪与奇迹书》，商店页现已开放，欢迎加入愿望单！",
+      "url": "https://www.bilibili.com/opus/1244875766573826052",
+      "author_action": "投稿了文章",
+      "first_seen_at": "2026-09-06T11:31:03Z",
+      "last_seen_at": "2026-09-06T11:31:03Z"
+    },
+    {
+      "id": "1244874798067089428",
+      "kind": "dynamic",
+      "dynamic_type": "DYNAMIC_TYPE_DRAW",
+      "major_type": "MAJOR_TYPE_OPUS",
+      "up": "碧蓝航线",
+      "up_uid": "233114659",
+      "published_at": "2026-09-06T08:30:00Z",
+      "published_ts": 1788683400,
+      "title": "#碧蓝航线# ◆家具贩售注意◆ 玻璃展柜内的神秘力量，诱使着去观察，去触碰，去拥有…… 指挥官回回神，先寻找隐匿在调查中心的异象吧！ 「异常调查中心」主题家具将…",
+      "text": "#碧蓝航线#\n◆家具贩售注意◆\n玻璃展柜内的神秘力量，诱使着去观察，去触碰，去拥有……\n指挥官回回神，先寻找隐匿在调查中心的异象吧！\n\n「异常调查中心」主题家具将于维护后登场~！\n贩售时间：2026年9月8日维护后~2026年9月30日23:59\n※相关钻石购买家具「调查中心异常电梯」将于以上时间同期上架；\n※实装效果以游戏内为准。",
+      "url": "https://www.bilibili.com/opus/1244874798067089428",
+      "author_action": "",
+      "first_seen_at": "2026-09-06T11:31:03Z",
+      "last_seen_at": "2026-09-06T11:31:03Z"
+    },
+    {
+      "id": "1244867653439324177",
+      "kind": "video",
+      "dynamic_type": "DYNAMIC_TYPE_AV",
+      "major_type": "MAJOR_TYPE_ARCHIVE",
+      "up": "碧蓝航线",
+      "up_uid": "233114659",
+      "published_at": "2026-09-06T08:02:17Z",
+      "published_ts": 1788681737,
+      "title": "《碧蓝航线》「幽影迷城」活动前瞻",
+      "text": "9月8日维护后~9月30日23:59，大型活动「幽影迷城」开启。详情可查阅维护公告。\n更多信息可前往：https://game.bilibili.com/blhx/rfznyymc/h5\n\n>>全新角色登场<<\n虎-海上传奇\n鮟-海上传奇\n十诗-超稀有\n胜利·META-超稀有\n匆忙-精锐\n敌对-精锐\n\n>>全新改造开启<<\n勇敢.改\n\n>>全新换装限时登场<<\n时间：9月8日维护后~9月16日23:59\n鮟-「午夜的瑰色电梯」【双形态换装】\n腓德雷卡·卡尔-「午夜频道」【Live2D+】\n狮-「夜巷中的诱",
+      "url": "https://www.bilibili.com/video/BV18tbp6WE8y",
+      "author_action": "投稿了视频",
+      "first_seen_at": "2026-09-06T11:31:03Z",
+      "last_seen_at": "2026-09-06T11:31:03Z"
+    },
+    {
+      "id": "1244867067152171025",
+      "kind": "dynamic",
+      "dynamic_type": "DYNAMIC_TYPE_DRAW",
+      "major_type": "MAJOR_TYPE_OPUS",
+      "up": "二重螺旋",
+      "up_uid": "3461571554577304",
+      "published_at": "2026-09-06T08:00:00Z",
+      "published_ts": 1788681600,
+      "title": "#二重螺旋# #第22只乐园的白兔# #重返乐园# ✦ 【华彩图记】活动说明✦ 【活动时间】 2026年9月8日 10:00 ~ 2026年10月19日 17:…",
+      "text": "#二重螺旋# #第22只乐园的白兔# #重返乐园# \n✦ 【华彩图记】活动说明✦\n\n【活动时间】\n2026年9月8日 10:00 ~ 2026年10月19日 17:00（UTC+8）\n\n【开放条件】\n完成夜航篇剧情【前往少女所说的宅邸】并开启【活动】功能\n\n【奖励内容】\n资源奖励：「华彩沙漏」「星辉丝线」\n腰部装饰：「长明穗」\n代金券：「第22只乐园的白兔代金券」\n*持有此券，即可以优惠的价格，购买“第22只乐园的白兔”及过往版本的头部装饰与躯体装饰。商品满480月石晶胚减300月石晶胚。\n\n【活动说明】\n活动期间，完成外观收集列表中的收集任务以获得外观积分，消耗月石解锁后可领取丰富奖励\n——————————— \n✦ 9月8日「幻想风多维战斗爽游」-《二重螺旋》【第22只乐园的白兔】版本开启：https://www.biligame.com/detail/?id=111015\n✦ 版本特别福利：「华彩沙漏」*10、「委托手册·四」*5等好礼登录即领！\n✦ 全新角色法露茜登场，暗黑童话风场景上线，泊暮篇主线剧情同步更新，更多新增优化与升级体验等待探索！\n✦ 【云·二重螺旋】新增网页端版本，新版本期间，登录任意端云游戏，即领10小时免费时长！",
+      "url": "https://www.bilibili.com/opus/1244867067152171025",
+      "author_action": "",
+      "first_seen_at": "2026-09-06T11:31:03Z",
+      "last_seen_at": "2026-09-06T11:31:03Z"
+    },
+    {
+      "id": "1244866850223816709",
+      "kind": "video",
+      "dynamic_type": "DYNAMIC_TYPE_AV",
+      "major_type": "MAJOR_TYPE_ARCHIVE",
+      "up": "空灵雨迹",
+      "up_uid": "223902",
+      "published_at": "2026-09-06T07:59:10Z",
+      "published_ts": 1788681550,
+      "title": "【10月/上田丽奈&鬼头明里&青山吉能】蓝箱(青之箱) 第二季 正式PV【中字/1080P+】",
+      "text": "#中文字幕##蓝箱##青之箱##蓝箱第二季##蓝箱 第二季##青之箱第二季##青之箱 第二季##上田丽奈##鬼头明里##青山吉能##小林千晃##千叶翔也##小林千晃##内田雄马##市之濑加那##梶裕贵#",
+      "url": "https://www.bilibili.com/video/BV1tbbp6XEtu",
+      "author_action": "投稿了视频",
+      "first_seen_at": "2026-09-06T11:31:03Z",
+      "last_seen_at": "2026-09-06T11:31:03Z"
+    },
+    {
+      "id": "1244866175927582727",
+      "kind": "video",
+      "dynamic_type": "DYNAMIC_TYPE_AV",
+      "major_type": "MAJOR_TYPE_ARCHIVE",
+      "up": "蓝色de羽毛",
+      "up_uid": "11608070",
+      "published_at": "2026-09-06T07:56:33Z",
+      "published_ts": 1788681393,
+      "title": "【魂坠深境】魂坠深境护符推荐——舞者篇",
+      "text": "感觉整体质量不高，但是强的很强。\n\n舞者护符推荐：\n\n通用：虚空书页、商人徽记（红）、利刃咒文、魔术硬币、偷袭手套、清澈戒指\n\n其他：裙甲扣饰、欺诈信物、凤纹臂鞲、书签\n\n宝石：\n激活获得金币/魂晶；伤害次数+1/伤害增加50%（利刃咒文）；施放时获得虚质生命；开局造成耐久x6伤害（硬币/利刃咒文）",
+      "url": "https://www.bilibili.com/video/BV1Sbbp6XEU1",
+      "author_action": "投稿了视频",
+      "first_seen_at": "2026-09-06T11:31:03Z",
+      "last_seen_at": "2026-09-06T11:31:03Z"
+    },
+    {
+      "id": "1244864238940323843",
+      "kind": "video",
+      "dynamic_type": "DYNAMIC_TYPE_AV",
+      "major_type": "MAJOR_TYPE_ARCHIVE",
+      "up": "空灵雨迹",
+      "up_uid": "223902",
+      "published_at": "2026-09-06T07:49:02Z",
+      "published_ts": 1788680942,
+      "title": "【10月1日】冰之城墙 第二季 正式PV1(永濑安娜&和泉风花&千叶翔也&猪股慧士)【中字/1080P+】",
+      "text": "#冰之城墙 第二季##冰之城墙第二季##冰之城壁##冰之城墙##永濑安娜##和泉风花##千叶翔也##猪股慧士##中文字幕#",
+      "url": "https://www.bilibili.com/video/BV1WBbp62Exv",
+      "author_action": "投稿了视频",
+      "first_seen_at": "2026-09-06T11:31:03Z",
+      "last_seen_at": "2026-09-06T11:31:03Z"
+    },
+    {
+      "id": "1244861979775991814",
+      "kind": "video",
+      "dynamic_type": "DYNAMIC_TYPE_AV",
+      "major_type": "MAJOR_TYPE_ARCHIVE",
+      "up": "旷野清工坊",
+      "up_uid": "1394083088",
+      "published_at": "2026-09-06T07:40:16Z",
+      "published_ts": 1788680416,
+      "title": "铳墓 布兰登 地狱火 设计完成",
+      "text": "",
+      "url": "https://www.bilibili.com/video/BV1dEbp68EFx",
+      "author_action": "投稿了视频",
+      "first_seen_at": "2026-09-06T11:31:03Z",
+      "last_seen_at": "2026-09-06T11:31:03Z"
+    },
+    {
+      "id": "1244860399226978322",
+      "kind": "article",
+      "dynamic_type": "DYNAMIC_TYPE_ARTICLE",
+      "major_type": "MAJOR_TYPE_OPUS",
+      "up": "Galgame批评",
+      "up_uid": "2072586344",
+      "published_at": "2026-09-06T07:34:08Z",
+      "published_ts": 1788680048,
+      "title": "【Gal周报259期】《FORTUNE×WORLD》体验版公开，《夏日终焉》宣布官中",
+      "text": "本文首发于公众号 Galgame批评\n[图片]\n新作资讯\nLaplacian 新作《MONOCHROME SERENADE》宣布跳票\n[图片]\n本周，Laplacian 宣布原定于 2026 年内发售的新作《MONOCHROME SERENADE》将 延期至 2027 年内发售。\n本作是 Laplacian 于 2025 年 5 月宣布的四部新作中的一部，由長月達平负责剧本，霜降和ぺれっと负责原画。关于本作的更多信息目前尚未公开，感兴趣的玩家可以持续关注。\n...",
+      "url": "https://www.bilibili.com/opus/1244860399226978322",
+      "author_action": "投稿了文章",
+      "first_seen_at": "2026-09-06T11:31:03Z",
+      "last_seen_at": "2026-09-06T11:31:03Z"
+    },
+    {
+      "id": "1244859336203698181",
+      "kind": "dynamic",
+      "dynamic_type": "DYNAMIC_TYPE_DRAW",
+      "major_type": "MAJOR_TYPE_OPUS",
+      "up": "碧蓝航线",
+      "up_uid": "233114659",
+      "published_at": "2026-09-06T07:30:00Z",
+      "published_ts": 1788679800,
+      "title": "#碧蓝航线# 敌对换装「水畔的守望之光」参上~ 将于下次维护后限时贩售登场！ “这片水域不算安全，尤其是这一带……所以我才会在这里等你。放心吧，这盏灯会为你指明…",
+      "text": "#碧蓝航线#\n敌对换装「水畔的守望之光」参上~\n将于下次维护后限时贩售登场！\n“这片水域不算安全，尤其是这一带……所以我才会在这里等你。放心吧，这盏灯会为你指明安全的道路，带你返回岸上。”\n※实装效果以游戏内为准",
+      "url": "https://www.bilibili.com/opus/1244859336203698181",
+      "author_action": "",
+      "first_seen_at": "2026-09-06T11:31:03Z",
+      "last_seen_at": "2026-09-06T11:31:03Z"
+    },
+    {
+      "id": "1244859078480494596",
+      "kind": "dynamic",
+      "dynamic_type": "DYNAMIC_TYPE_DRAW",
+      "major_type": "MAJOR_TYPE_OPUS",
+      "up": "二柄APP",
+      "up_uid": "90668673",
+      "published_at": "2026-09-06T07:29:00Z",
+      "published_ts": 1788679740,
+      "title": "【前BioWare开发者力挺《质量效应》新作！相信团队在擅长的单人叙事领域中重展雄风】由于《圣歌》《质量效应：仙女座》《龙腾世纪：影障守护者》等作的表现不尽如人…",
+      "text": "【前BioWare开发者力挺《质量效应》新作！相信团队在擅长的单人叙事领域中重展雄风】由于《圣歌》《质量效应：仙女座》《龙腾世纪：影障守护者》等作的表现不尽如人意，因此一些玩家对BioWare《质量效应》新作持怀疑态度，甚至有人认为该作可能无法顺利推出。曾参与《质量效应》三部曲开发的前设计师Armando Troisi近日表示，外界的担忧有些过度，他相信BioWare仍然有能力打造出优秀作品。\n\nArmando Troisi表示，随着行业进入“服务型游戏”时代，工作室受到了市场环境、投资方等因素影响。但是BioWare最擅长的是打造单人、互动叙事驱动、拥有深度战斗与成长系统的RPG作品，只要让团队回归自身优势，他们依然能够制作出顶级作品。他表示：“我认为他们可以做到，我会支持他们。”目前《质量效应》新作仍在开发中，具体发售时间尚未公布。",
+      "url": "https://www.bilibili.com/opus/1244859078480494596",
+      "author_action": "",
+      "first_seen_at": "2026-09-06T11:31:03Z",
+      "last_seen_at": "2026-09-06T11:31:03Z"
+    },
+    {
+      "id": "1244852891605270531",
+      "kind": "video",
+      "dynamic_type": "DYNAMIC_TYPE_AV",
+      "major_type": "MAJOR_TYPE_ARCHIVE",
+      "up": "IGN中国",
+      "up_uid": "652239032",
+      "published_at": "2026-09-06T07:05:00Z",
+      "published_ts": 1788678300,
+      "title": "【IGN】《Godreaper》游戏玩法预告",
+      "text": "《Godreaper》是一款暗黑风格的第三人称动作冒险游戏，背景设定在充满东斯拉夫神话色彩的硬核奇幻 世界。当未知的腐蚀侵蚀了世界之树的根基，往日的秩序随之崩塌。剧毒的荒废蒙蔽了众神的双眼：这些曾经的秩序守护者丧失了理智，沦为疯狂的暴君。当来自「纳维」的妖魔在村庄废墟上肆虐时，一支不可阻挡的铁骑正从东方逼近祖国的边境。游戏将于2027年登陆PC平台。",
+      "url": "https://www.bilibili.com/video/BV1Cqtq6SETd",
+      "author_action": "投稿了视频",
+      "first_seen_at": "2026-09-06T11:31:03Z",
+      "last_seen_at": "2026-09-06T11:31:03Z"
+    },
+    {
+      "id": "1244851757717127171",
+      "kind": "video",
+      "dynamic_type": "DYNAMIC_TYPE_AV",
+      "major_type": "MAJOR_TYPE_ARCHIVE",
+      "up": "空灵雨迹",
+      "up_uid": "223902",
+      "published_at": "2026-09-06T07:00:36Z",
+      "published_ts": 1788678036,
+      "title": "【10月25日/3话新作动画/上田丽奈&石川界人】我的幸福婚姻 特別篇 正式先导PV【中字/1080P+】",
+      "text": "#F宅字幕组##我的幸福婚姻##我的幸福婚姻新作动画##我的幸福婚姻新作##我的美好婚事##上田丽奈##石川界人##我的幸福婚约##我的幸福婚姻 特別篇#",
+      "url": "https://www.bilibili.com/video/BV1vdbp6NECP",
+      "author_action": "投稿了视频",
+      "first_seen_at": "2026-09-06T11:31:03Z",
+      "last_seen_at": "2026-09-06T11:31:03Z"
+    },
+    {
+      "id": "1244851605278294054",
+      "kind": "dynamic",
+      "dynamic_type": "DYNAMIC_TYPE_DRAW",
+      "major_type": "MAJOR_TYPE_OPUS",
+      "up": "HIKARI-FIELD",
+      "up_uid": "41883712",
+      "published_at": "2026-09-06T07:00:00Z",
+      "published_ts": 1788678000,
+      "title": "《淑女同萌！》官方中文版现正于Steam促销热卖中！最低仅需23元即可入手！ https://store.steampowered.com/app/783120…",
+      "text": "《淑女同萌！》官方中文版现正于Steam促销热卖中！最低仅需23元即可入手！\nhttps://store.steampowered.com/app/783120\n\n本作内置简体中文、繁体中文与日文三版本，并支持集换卡牌、云存储以及游戏手柄操作等附加功能，同时也支持额外内容。\n\n《淑女同萌！》是美少女游戏品牌晓WORKS制作的一款兼具校园喜剧与复仇悲剧题材的作品，游戏拥有独特的致敬莎士比亚舞台剧风格的强烈特色。由佐伯北都担当原画，日野亘与众堂乔负责剧本。同时也有遥空、北见六花、桐谷华等知名声优担当配音。中文版是同时收录PC版与PSV版剧情的集大成版本。\n\n#HIKARIFIELD# #GALGAME# #GAL# #游戏# #STEAM游戏# #STEAM#  #视觉小说类游戏# #视觉小说#",
+      "url": "https://www.bilibili.com/opus/1244851605278294054",
+      "author_action": "",
+      "first_seen_at": "2026-09-06T11:31:03Z",
+      "last_seen_at": "2026-09-06T11:31:03Z"
+    },
+    {
+      "id": "1244851605276196886",
+      "kind": "dynamic",
+      "dynamic_type": "DYNAMIC_TYPE_DRAW",
+      "major_type": "MAJOR_TYPE_OPUS",
+      "up": "碧蓝航线",
+      "up_uid": "233114659",
+      "published_at": "2026-09-06T07:00:00Z",
+      "published_ts": 1788678000,
+      "title": "#碧蓝航线# 匆忙换装「人偶藏馆」参上~ 将于下次维护后限时贩售登场！ “欢·迎·回·家，我们，一直在等你，嘻嘻，嘻嘻嘻……嘿嘿，我演得不错吧~” ※实装效果以…",
+      "text": "#碧蓝航线#\n匆忙换装「人偶藏馆」参上~\n将于下次维护后限时贩售登场！\n“欢·迎·回·家，我们，一直在等你，嘻嘻，嘻嘻嘻……嘿嘿，我演得不错吧~”\n※实装效果以游戏内为准",
+      "url": "https://www.bilibili.com/opus/1244851605276196886",
+      "author_action": "",
+      "first_seen_at": "2026-09-06T11:31:03Z",
+      "last_seen_at": "2026-09-06T11:31:03Z"
+    },
+    {
+      "id": "1244851605265711122",
+      "kind": "dynamic",
+      "dynamic_type": "DYNAMIC_TYPE_DRAW",
+      "major_type": "MAJOR_TYPE_OPUS",
+      "up": "二重螺旋",
+      "up_uid": "3461571554577304",
+      "published_at": "2026-09-06T07:00:00Z",
+      "published_ts": 1788678000,
+      "title": "#二重螺旋# #第22只乐园的白兔# #重返乐园# ✦ 【庆典漫游指南】活动说明 ✦ 翻过深山与密林，出现在你眼前的是一座完全陌生的城镇。 人们亲切地拉起你的手…",
+      "text": "#二重螺旋# #第22只乐园的白兔# #重返乐园# \n\n✦ 【庆典漫游指南】活动说明 ✦\n\n翻过深山与密林，出现在你眼前的是一座完全陌生的城镇。\n人们亲切地拉起你的手，共同踏入童话般的乐园。\n\n【活动时间】\n2026年9月8日更新后 ~ 2026年10月19日 17:00（UTC+8）\n\n【开放条件】\n完成夜航篇剧情【嫌疑人的献身】\n\n【奖励内容】\n「华彩沙漏」「月石」「增幅激化器」「闪烁星芒」「暮夜的履迹」「移转模块」「武器移转模块」「战斗旋律·四」「武器说明书·四」「铜币」\n\n【活动说明】\n完成系列任务，领取活动赠礼。\n——————————— \n✦ 9月8日「幻想风多维战斗爽游」-《二重螺旋》【第22只乐园的白兔】版本开启：https://www.biligame.com/detail/?id=111015\n✦ 版本特别福利：「华彩沙漏」*10、「委托手册·四」*5等好礼登录即领！\n✦ 全新角色法露茜登场，暗黑童话风场景上线，泊暮篇主线剧情同步更新，更多新增优化与升级体验等待探索！\n✦ 【云·二重螺旋】新增网页端版本，新版本期间，登录任意端云游戏，即领10小时免费时长！",
+      "url": "https://www.bilibili.com/opus/1244851605265711122",
+      "author_action": "",
+      "first_seen_at": "2026-09-06T11:31:03Z",
+      "last_seen_at": "2026-09-06T11:31:03Z"
+    },
+    {
+      "id": "1244847600222339097",
+      "kind": "video",
+      "dynamic_type": "DYNAMIC_TYPE_AV",
+      "major_type": "MAJOR_TYPE_ARCHIVE",
+      "up": "空灵雨迹",
+      "up_uid": "223902",
+      "published_at": "2026-09-06T06:44:28Z",
+      "published_ts": 1788677068,
+      "title": "【9月6日/若山诗音】无职转生 第三季 第11话 预告【F宅/1080P+】",
+      "text": "#F宅字幕组##无职转生 第三季##无职转生第三季##无职转生##到了异世界就拿出真本事##杉田智和##内山夕实##加隈亚衣##金元寿子##Lynn##会泽纱弥##高田忧希##诸星堇##田中理恵##上田丽奈##若山诗音##小山力也##户松遥#",
+      "url": "https://www.bilibili.com/video/BV1GwbW6cEzF",
+      "author_action": "投稿了视频",
+      "first_seen_at": "2026-09-06T11:31:03Z",
+      "last_seen_at": "2026-09-06T11:31:03Z"
+    },
+    {
+      "id": "1244847436969541633",
+      "kind": "video",
+      "dynamic_type": "DYNAMIC_TYPE_AV",
+      "major_type": "MAJOR_TYPE_ARCHIVE",
+      "up": "IGN中国",
+      "up_uid": "652239032",
+      "published_at": "2026-09-06T06:43:50Z",
+      "published_ts": 1788677030,
+      "title": "【IGN】《怪物猎人 荒野：凌越》「轻弩炮」武器介绍视频",
+      "text": "启动「增幅护腕」后，猎人的动作性能会在一定时间内得到强化，并可使用全新招式与派生。通过启动「增幅护腕」并同时施展强力攻击的新动作「增幅发动动作」，以及活用能在一定时间内强化各种动作的「增幅状态」，迎战强大的怪物。超大型扩充内容《怪物猎人 荒野：凌越》目前正在开发中，将于2027年推出，《凌越》将会延续《怪物猎人 荒野》主线剧情，追加全新故事、新的原野和怪物、猎人动作，以及新增「大师等级」任务等级等各种内容。",
+      "url": "https://www.bilibili.com/video/BV13AbW6hEoe",
+      "author_action": "投稿了视频",
+      "first_seen_at": "2026-09-06T11:31:03Z",
+      "last_seen_at": "2026-09-06T11:31:03Z"
+    },
+    {
+      "id": "1244847037594206215",
+      "kind": "video",
+      "dynamic_type": "DYNAMIC_TYPE_AV",
+      "major_type": "MAJOR_TYPE_ARCHIVE",
+      "up": "A9VG",
+      "up_uid": "19432127",
+      "published_at": "2026-09-06T06:42:17Z",
+      "published_ts": 1788676937,
+      "title": "《怪物猎人荒野 凌越》武器介绍视频：轻弩炮",
+      "text": "《怪物猎人荒野 凌越》武器介绍视频：轻弩炮。\n\n本作将于2027年推出。新要素“增幅护腕”带来全新的动作，使狩猎动作进一步进化。\n\n【增幅动作是什么】\n启动“增幅护腕”后，猎人的动作性能会在一定时间内得到强化，并可使用全新招式与衍生。\n透过启动“增幅护腕”并同时施展强力攻击的新动作“增幅发动动作”，以及活用能在一定时间内强化各种动作的“增幅状态”，迎战强大的怪物。",
+      "url": "https://www.bilibili.com/video/BV1GwbW6cERe",
+      "author_action": "投稿了视频",
+      "first_seen_at": "2026-09-06T11:31:03Z",
+      "last_seen_at": "2026-09-06T11:31:03Z"
+    },
+    {
+      "id": "1244843874294169637",
+      "kind": "dynamic",
+      "dynamic_type": "DYNAMIC_TYPE_DRAW",
+      "major_type": "MAJOR_TYPE_OPUS",
+      "up": "碧蓝航线",
+      "up_uid": "233114659",
+      "published_at": "2026-09-06T06:30:00Z",
+      "published_ts": 1788676200,
+      "title": "#碧蓝航线# 十诗换装「千面皆虚无」参上~ 将于下次维护后限时贩售登场！动态立绘同期实装~ “还是被你找到了啊，明明我已经换了很多次面容……嗯，我就是你们认知中…",
+      "text": "#碧蓝航线#\n十诗换装「千面皆虚无」参上~\n将于下次维护后限时贩售登场！动态立绘同期实装~\n“还是被你找到了啊，明明我已经换了很多次面容……嗯，我就是你们认知中的‘异常’，现在你想怎么处置我？”\n※实装效果以游戏内为准",
+      "url": "https://www.bilibili.com/opus/1244843874294169637",
+      "author_action": "",
+      "first_seen_at": "2026-09-06T11:31:03Z",
+      "last_seen_at": "2026-09-06T11:31:03Z"
+    },
+    {
+      "id": "1244837541390057476",
+      "kind": "video",
+      "dynamic_type": "DYNAMIC_TYPE_AV",
+      "major_type": "MAJOR_TYPE_ARCHIVE",
+      "up": "诗歌Airu",
+      "up_uid": "162833371",
+      "published_at": "2026-09-06T06:05:26Z",
+      "published_ts": 1788674726,
+      "title": "“牢明的顶级理解~”【卡丘小剧场】",
+      "text": "玛拉过来当背景板喵，下一期是玛拉喵\n如果有想出场的角色，欢迎提出来喵\n要是有三连就好了喵\n灵感来源：BV1REb16ZEmU、默莉妮娅\n画师串：群挺缺德",
+      "url": "https://www.bilibili.com/video/BV1zDbp6BEyh",
+      "author_action": "投稿了视频",
+      "first_seen_at": "2026-09-06T11:31:03Z",
+      "last_seen_at": "2026-09-06T11:31:03Z"
+    },
+    {
+      "id": "1244837431855808518",
+      "kind": "dynamic",
+      "dynamic_type": "DYNAMIC_TYPE_DRAW",
+      "major_type": "MAJOR_TYPE_OPUS",
+      "up": "二柄APP",
+      "up_uid": "90668673",
+      "published_at": "2026-09-06T06:05:00Z",
+      "published_ts": 1788674700,
+      "title": "【《最终幻想7：Revelation》外观选择更丰富！职业系统之外还有多种服装可收集】《最终幻想7：Revelation》总监浜口直树在PAX West上透露，…",
+      "text": "【《最终幻想7：Revelation》外观选择更丰富！职业系统之外还有多种服装可收集】《最终幻想7：Revelation》总监浜口直树在PAX West上透露，本作除了职业系统所搭配的外观外，游戏里还有丰富的服装可以收集。其中有些服装古怪有趣，玩家可在游玩过程中逐步解锁。\n\n在此也介绍下本作的职业系统，本作提供以下几种职业：\n1、战士：通过角色专属能力，拓展进攻玩法\n2、黑魔道士：擅长强力的属性魔法\n3、骑士：擅长防御和为队友提供支援\n4、召唤士：擅长召唤和连携攻击\n本作中每个角色都可以通过职业来自定义战斗风格，该系统预计会在游戏开始5、6个小时后解锁。《最终幻想7：Revelation》将于2027年4月8正式发售。",
+      "url": "https://www.bilibili.com/opus/1244837431855808518",
+      "author_action": "",
+      "first_seen_at": "2026-09-06T11:31:03Z",
+      "last_seen_at": "2026-09-06T11:31:03Z"
+    },
+    {
+      "id": "1244836143387639816",
+      "kind": "dynamic",
+      "dynamic_type": "DYNAMIC_TYPE_DRAW",
+      "major_type": "MAJOR_TYPE_OPUS",
+      "up": "二重螺旋",
+      "up_uid": "3461571554577304",
+      "published_at": "2026-09-06T06:00:00Z",
+      "published_ts": 1788674400,
+      "title": "#二重螺旋# #第22只乐园的白兔# #重返乐园# ✦ 【罪者的归途】累计签到领取「华彩沙漏」*10 ✦ 【活动时间】 2026年9月8日更新后 ~ 2026年…",
+      "text": "#二重螺旋# #第22只乐园的白兔# #重返乐园# \n✦ 【罪者的归途】累计签到领取「华彩沙漏」*10 ✦\n\n【活动时间】\n2026年9月8日更新后 ~ 2026年10月19日 17:00（UTC+8）\n\n【开放条件】\n完成夜航篇剧情【前往少女所说的宅邸】并开启【活动】功能\n\n【奖励内容】\n「华彩沙漏」*10\n\n【活动说明】\n活动开启期间，狩月人累计登录七天即可解锁全部奖励。\n每日登录游戏，即可在活动界面领取当日奖励内容。\n当日已解锁但未领取的奖励将在活动页面保留，可在活动期间的任何时间领取。\n——————————— \n✦ 9月8日「幻想风多维战斗爽游」-《二重螺旋》【第22只乐园的白兔】版本开启：https://www.biligame.com/detail/?id=111015\n✦ 版本特别福利：「华彩沙漏」*10、「委托手册·四」*5等好礼登录即领！\n✦ 全新角色法露茜登场，暗黑童话风场景上线，泊暮篇主线剧情同步更新，更多新增优化与升级体验等待探索！\n✦ 【云·二重螺旋】新增网页端版本，新版本期间，登录任意端云游戏，即领10小时免费时长！",
+      "url": "https://www.bilibili.com/opus/1244836143387639816",
+      "author_action": "",
+      "first_seen_at": "2026-09-06T11:31:03Z",
+      "last_seen_at": "2026-09-06T11:31:03Z"
+    },
+    {
+      "id": "1244836143356182532",
+      "kind": "dynamic",
+      "dynamic_type": "DYNAMIC_TYPE_DRAW",
+      "major_type": "MAJOR_TYPE_OPUS",
+      "up": "碧蓝航线",
+      "up_uid": "233114659",
+      "published_at": "2026-09-06T06:00:00Z",
+      "published_ts": 1788674400,
+      "title": "#碧蓝航线# 虎换装「临水的辰星」参上~ 将于下次维护后限时贩售登场！动态立绘同期实装~ “原来……将我从天穹引至此地的那道声音，就是你啊。我从辰星而来，期待与…",
+      "text": "#碧蓝航线#\n虎换装「临水的辰星」参上~\n将于下次维护后限时贩售登场！动态立绘同期实装~\n“原来……将我从天穹引至此地的那道声音，就是你啊。我从辰星而来，期待与你同奏出这人间最完美的旋律……”\n※实装效果以游戏内为准",
+      "url": "https://www.bilibili.com/opus/1244836143356182532",
+      "author_action": "",
+      "first_seen_at": "2026-09-06T11:31:03Z",
+      "last_seen_at": "2026-09-06T11:31:03Z"
+    },
+    {
+      "id": "1244828412414001170",
+      "kind": "dynamic",
+      "dynamic_type": "DYNAMIC_TYPE_DRAW",
+      "major_type": "MAJOR_TYPE_OPUS",
+      "up": "碧蓝航线",
+      "up_uid": "233114659",
+      "published_at": "2026-09-06T05:30:00Z",
+      "published_ts": 1788672600,
+      "title": "#碧蓝航线# 光辉换装「幽影徘徊之夜」参上~ 将于下次维护后限时贩售登场！Live2D+同期实装~！ “找到您了，迷路的小羔羊~独自一人跑到这种地方……是在期待…",
+      "text": "#碧蓝航线#\n光辉换装「幽影徘徊之夜」参上~\n将于下次维护后限时贩售登场！Live2D+同期实装~！\n“找到您了，迷路的小羔羊~独自一人跑到这种地方……是在期待什么不一样的邂逅吗？那光辉就要好好满足您了呢~”\n\n※「Live2D+」换装相较于其他Live2D换装新增了特殊画面及互动状态，指挥官可通过点击特定部位进入该画面并与之互动；\n※实装效果以游戏内为准。",
+      "url": "https://www.bilibili.com/opus/1244828412414001170",
+      "author_action": "",
+      "first_seen_at": "2026-09-06T11:31:03Z",
+      "last_seen_at": "2026-09-06T11:31:03Z"
+    },
     {
       "id": "1244827302180683794",
       "kind": "video",
@@ -18,7 +690,7 @@
       "url": "https://www.bilibili.com/video/BV1dMbn6bEoX",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244825597078667268",
@@ -34,7 +706,7 @@
       "url": "https://www.bilibili.com/video/BV1PQbJ63E9x",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244822161121607687",
@@ -50,7 +722,7 @@
       "url": "https://www.bilibili.com/video/BV1xSbJ6kEtx",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244820681532637185",
@@ -66,7 +738,7 @@
       "url": "https://www.bilibili.com/opus/1244820681532637185",
       "author_action": "",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244818299935522832",
@@ -82,7 +754,7 @@
       "url": "https://www.bilibili.com/video/BV1ydbJ6qEGp",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244817449533046786",
@@ -98,7 +770,7 @@
       "url": "https://www.bilibili.com/video/BV1kdbJ6qEzW",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244812950581018627",
@@ -114,7 +786,7 @@
       "url": "https://www.bilibili.com/opus/1244812950581018627",
       "author_action": "",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244812950579970056",
@@ -130,7 +802,7 @@
       "url": "https://www.bilibili.com/opus/1244812950579970056",
       "author_action": "",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244806505933307938",
@@ -146,7 +818,7 @@
       "url": "https://www.bilibili.com/video/BV12ctn6gE5p",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244805311942885413",
@@ -162,7 +834,7 @@
       "url": "https://www.bilibili.com/video/BV1C9b76cEks",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244805264737042498",
@@ -178,7 +850,7 @@
       "url": "https://www.bilibili.com/opus/1244805264737042498",
       "author_action": "",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244805247530958884",
@@ -194,7 +866,7 @@
       "url": "https://www.bilibili.com/video/BV1LZtE6WEor",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244805219649323025",
@@ -210,7 +882,7 @@
       "url": "https://www.bilibili.com/opus/1244805219649323025",
       "author_action": "",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244805219630448645",
@@ -226,7 +898,7 @@
       "url": "https://www.bilibili.com/opus/1244805219630448645",
       "author_action": "",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244805219604234245",
@@ -242,7 +914,7 @@
       "url": "https://www.bilibili.com/opus/1244805219604234245",
       "author_action": "",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244805219602137107",
@@ -258,7 +930,7 @@
       "url": "https://www.bilibili.com/opus/1244805219602137107",
       "author_action": "",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244805219601088548",
@@ -274,7 +946,7 @@
       "url": "https://www.bilibili.com/opus/1244805219601088548",
       "author_action": "",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244804882433572864",
@@ -301,10 +973,10 @@
         "title": "【每周环境考察】天梯环境介绍与最强卡组推荐 第40期【影之诗 超凡世界】",
         "text": "只要数据还可以就会每周更新，如果数据不达标会在每个新版本的第一周重新开始更新。\n每次制作视频都要收集大量数据，非常不容易。如果满意的话，请务必关注+三连。",
         "url": "https://www.bilibili.com/video/BV1aVbE67EgQ",
-        "author_action": "投稿了视频"
+        "author_action": "与他人联合创作"
       },
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244800797933305859",
@@ -320,7 +992,7 @@
       "url": "https://www.bilibili.com/opus/1244800797933305859",
       "author_action": "",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244800323368779793",
@@ -336,7 +1008,7 @@
       "url": "https://www.bilibili.com/opus/1244800323368779793",
       "author_action": "",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244799807975849986",
@@ -352,7 +1024,7 @@
       "url": "https://www.bilibili.com/opus/1244799807975849986",
       "author_action": "",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244798925374750721",
@@ -368,7 +1040,7 @@
       "url": "https://www.bilibili.com/video/BV159bn6ZEnS",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244792341184643073",
@@ -382,9 +1054,9 @@
       "title": "【每周环境考察】天梯环境介绍与最强卡组推荐 第40期【影之诗 超凡世界】",
       "text": "只要数据还可以就会每周更新，如果数据不达标会在每个新版本的第一周重新开始更新。\n每次制作视频都要收集大量数据，非常不容易。如果满意的话，请务必关注+三连。",
       "url": "https://www.bilibili.com/video/BV1aVbE67EgQ",
-      "author_action": "投稿了视频",
+      "author_action": "与他人联合创作",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244792334689763328",
@@ -400,7 +1072,7 @@
       "url": "https://www.bilibili.com/opus/1244792334689763328",
       "author_action": "",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244789772782665749",
@@ -430,7 +1102,7 @@
         "author_action": ""
       },
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244789772740722800",
@@ -460,7 +1132,7 @@
         "author_action": ""
       },
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244789757760765973",
@@ -476,7 +1148,7 @@
       "url": "https://www.bilibili.com/opus/1244789757760765973",
       "author_action": "",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244785892297539592",
@@ -492,7 +1164,7 @@
       "url": "https://www.bilibili.com/opus/1244785892297539592",
       "author_action": "",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244784077615136776",
@@ -508,7 +1180,7 @@
       "url": "https://www.bilibili.com/video/BV1JCbn6vE7K",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244780641698971712",
@@ -524,7 +1196,7 @@
       "url": "https://www.bilibili.com/opus/1244780641698971712",
       "author_action": "",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244778833482088455",
@@ -540,7 +1212,7 @@
       "url": "https://www.bilibili.com/video/BV1PLbH6CEaG",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244778610161614848",
@@ -556,7 +1228,7 @@
       "url": "https://www.bilibili.com/video/BV1WLbH6CELx",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244778099060506627",
@@ -572,7 +1244,7 @@
       "url": "https://www.bilibili.com/video/BV1WLbH6CEkr",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244775895753818162",
@@ -602,7 +1274,7 @@
         "author_action": "投稿了视频"
       },
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244774426869760009",
@@ -618,7 +1290,7 @@
       "url": "https://www.bilibili.com/opus/1244774426869760009",
       "author_action": "投稿了文章",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244774319470411809",
@@ -634,7 +1306,7 @@
       "url": "https://www.bilibili.com/video/BV1bst26SEjQ",
       "author_action": "与他人联合创作",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244772403892977683",
@@ -650,7 +1322,7 @@
       "url": "https://www.bilibili.com/opus/1244772403892977683",
       "author_action": "",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244762441776103444",
@@ -666,7 +1338,7 @@
       "url": "https://www.bilibili.com/opus/1244762441776103444",
       "author_action": "",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244762242044395527",
@@ -682,7 +1354,7 @@
       "url": "https://www.bilibili.com/opus/1244762242044395527",
       "author_action": "投稿了文章",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244760120287559685",
@@ -698,7 +1370,7 @@
       "url": "https://www.bilibili.com/video/BV1Aqtq6DEBh",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244758833941708819",
@@ -714,7 +1386,7 @@
       "url": "https://www.bilibili.com/opus/1244758833941708819",
       "author_action": "",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244749556867923977",
@@ -730,7 +1402,7 @@
       "url": "https://www.bilibili.com/opus/1244749556867923977",
       "author_action": "",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244744658407391255",
@@ -746,7 +1418,7 @@
       "url": "https://www.bilibili.com/video/BV1p9te6GEhR",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244739573223784464",
@@ -762,7 +1434,7 @@
       "url": "https://www.bilibili.com/video/BV1eXbE6DEJR",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-06T05:26:39Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244704719545303047",
@@ -778,7 +1450,7 @@
       "url": "https://www.bilibili.com/video/BV1ELbL6JEFw",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-05T23:29:54Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244626834614648832",
@@ -794,7 +1466,7 @@
       "url": "https://www.bilibili.com/video/BV16db76fEQy",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-05T17:30:03Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244625632028000256",
@@ -810,7 +1482,7 @@
       "url": "https://www.bilibili.com/video/BV1pQb76YE1L",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-05T17:30:03Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244619677062135808",
@@ -826,7 +1498,7 @@
       "url": "https://www.bilibili.com/opus/1244619677062135808",
       "author_action": "",
       "first_seen_at": "2026-09-05T17:30:03Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244619442987466761",
@@ -842,7 +1514,7 @@
       "url": "https://www.bilibili.com/video/BV17jbL6UEm8",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-05T17:30:03Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244618322002051109",
@@ -858,7 +1530,7 @@
       "url": "https://www.bilibili.com/video/BV1ojbL6mE2E",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-05T17:30:03Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244611819404787731",
@@ -874,7 +1546,7 @@
       "url": "https://www.bilibili.com/opus/1244611819404787731",
       "author_action": "投稿了文章",
       "first_seen_at": "2026-09-05T17:30:03Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244604646778994696",
@@ -890,7 +1562,7 @@
       "url": "https://www.bilibili.com/opus/1244604646778994696",
       "author_action": "",
       "first_seen_at": "2026-09-05T17:30:03Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244603800705040402",
@@ -906,7 +1578,7 @@
       "url": "https://www.bilibili.com/video/BV1RpbL6CEiB",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-05T17:30:03Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244601966724644887",
@@ -922,7 +1594,7 @@
       "url": "https://www.bilibili.com/video/BV18abL6BEv1",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-05T17:30:03Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244600562293407811",
@@ -938,7 +1610,7 @@
       "url": "https://www.bilibili.com/video/BV126bL6wEPw",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-05T17:30:03Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244588753292361737",
@@ -954,7 +1626,7 @@
       "url": "https://www.bilibili.com/opus/1244588753292361737",
       "author_action": "",
       "first_seen_at": "2026-09-05T17:30:03Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244587518446272512",
@@ -970,7 +1642,7 @@
       "url": "https://www.bilibili.com/opus/1244587518446272512",
       "author_action": "",
       "first_seen_at": "2026-09-05T17:30:03Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244587376761634840",
@@ -986,7 +1658,7 @@
       "url": "https://www.bilibili.com/video/BV1qFbj6EEHM",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-05T17:30:03Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244584408902533129",
@@ -1002,7 +1674,7 @@
       "url": "https://www.bilibili.com/video/BV1BobL6nErh",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-05T17:30:03Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244581982248108038",
@@ -1032,7 +1704,7 @@
         "author_action": "投稿了文章"
       },
       "first_seen_at": "2026-09-05T17:30:03Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244573291411144711",
@@ -1048,7 +1720,7 @@
       "url": "https://www.bilibili.com/opus/1244573291411144711",
       "author_action": "",
       "first_seen_at": "2026-09-05T17:30:03Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244573291378638848",
@@ -1064,7 +1736,7 @@
       "url": "https://www.bilibili.com/opus/1244573291378638848",
       "author_action": "",
       "first_seen_at": "2026-09-05T17:30:03Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244565807432728609",
@@ -1080,7 +1752,7 @@
       "url": "https://www.bilibili.com/video/BV1pbbj6bE5x",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-05T17:30:03Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244563492445356053",
@@ -1096,7 +1768,7 @@
       "url": "https://www.bilibili.com/video/BV1Wxbj6hE6Y",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-05T17:30:03Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244562543248146453",
@@ -1112,7 +1784,7 @@
       "url": "https://www.bilibili.com/opus/1244562543248146453",
       "author_action": "",
       "first_seen_at": "2026-09-05T17:30:03Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244546233087819777",
@@ -1128,7 +1800,7 @@
       "url": "https://www.bilibili.com/opus/1244546233087819777",
       "author_action": "",
       "first_seen_at": "2026-09-05T11:30:22Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244545273182552082",
@@ -1144,7 +1816,7 @@
       "url": "https://www.bilibili.com/opus/1244545273182552082",
       "author_action": "",
       "first_seen_at": "2026-09-05T11:30:22Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244542367644516360",
@@ -1160,7 +1832,7 @@
       "url": "https://www.bilibili.com/opus/1244542367644516360",
       "author_action": "",
       "first_seen_at": "2026-09-05T11:30:22Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244542367606767641",
@@ -1176,7 +1848,7 @@
       "url": "https://www.bilibili.com/opus/1244542367606767641",
       "author_action": "",
       "first_seen_at": "2026-09-05T11:30:22Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244538502181289989",
@@ -1192,7 +1864,7 @@
       "url": "https://www.bilibili.com/opus/1244538502181289989",
       "author_action": "",
       "first_seen_at": "2026-09-05T11:30:22Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244534636704432145",
@@ -1208,7 +1880,7 @@
       "url": "https://www.bilibili.com/opus/1244534636704432145",
       "author_action": "",
       "first_seen_at": "2026-09-05T11:30:22Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244534636697092104",
@@ -1224,7 +1896,7 @@
       "url": "https://www.bilibili.com/opus/1244534636697092104",
       "author_action": "",
       "first_seen_at": "2026-09-05T11:30:22Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244531597999341574",
@@ -1240,7 +1912,7 @@
       "url": "https://www.bilibili.com/opus/1244531597999341574",
       "author_action": "",
       "first_seen_at": "2026-09-05T11:30:22Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244530771220234256",
@@ -1256,7 +1928,7 @@
       "url": "https://www.bilibili.com/opus/1244530771220234256",
       "author_action": "",
       "first_seen_at": "2026-09-05T11:30:22Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244527019560009735",
@@ -1272,7 +1944,7 @@
       "url": "https://www.bilibili.com/video/BV1LSty6RELk",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-05T11:30:22Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244526968005722114",
@@ -1288,7 +1960,7 @@
       "url": "https://www.bilibili.com/video/BV1QYtR6jEez",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-05T11:30:22Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244526905764347909",
@@ -1304,7 +1976,7 @@
       "url": "https://www.bilibili.com/opus/1244526905764347909",
       "author_action": "",
       "first_seen_at": "2026-09-05T11:30:22Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244526905749667864",
@@ -1320,7 +1992,7 @@
       "url": "https://www.bilibili.com/opus/1244526905749667864",
       "author_action": "",
       "first_seen_at": "2026-09-05T11:30:22Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244526905742327842",
@@ -1336,7 +2008,7 @@
       "url": "https://www.bilibili.com/opus/1244526905742327842",
       "author_action": "",
       "first_seen_at": "2026-09-05T11:30:22Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244526905739182105",
@@ -1352,7 +2024,7 @@
       "url": "https://www.bilibili.com/opus/1244526905739182105",
       "author_action": "",
       "first_seen_at": "2026-09-05T11:30:22Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244526905725550616",
@@ -1368,7 +2040,7 @@
       "url": "https://www.bilibili.com/opus/1244526905725550616",
       "author_action": "",
       "first_seen_at": "2026-09-05T11:30:22Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244526905723453456",
@@ -1384,7 +2056,7 @@
       "url": "https://www.bilibili.com/opus/1244526905723453456",
       "author_action": "",
       "first_seen_at": "2026-09-05T11:30:22Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244525615131918345",
@@ -1400,7 +2072,7 @@
       "url": "https://www.bilibili.com/video/BV1AxtJ6NEFR",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-05T11:30:22Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244523093970386946",
@@ -1416,7 +2088,7 @@
       "url": "https://www.bilibili.com/opus/1244523093970386946",
       "author_action": "",
       "first_seen_at": "2026-09-05T11:30:22Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244523040283295753",
@@ -1432,7 +2104,7 @@
       "url": "https://www.bilibili.com/opus/1244523040283295753",
       "author_action": "",
       "first_seen_at": "2026-09-05T11:30:22Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244522823394787334",
@@ -1448,7 +2120,7 @@
       "url": "https://www.bilibili.com/opus/1244522823394787334",
       "author_action": "投稿了文章",
       "first_seen_at": "2026-09-05T11:30:22Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244522776132321285",
@@ -1464,7 +2136,7 @@
       "url": "https://www.bilibili.com/opus/1244522776132321285",
       "author_action": "投稿了文章",
       "first_seen_at": "2026-09-05T11:30:22Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244519174790709249",
@@ -1480,7 +2152,7 @@
       "url": "https://www.bilibili.com/opus/1244519174790709249",
       "author_action": "",
       "first_seen_at": "2026-09-05T09:38:51Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244512732365979650",
@@ -1496,7 +2168,7 @@
       "url": "https://www.bilibili.com/opus/1244512732365979650",
       "author_action": "",
       "first_seen_at": "2026-09-05T09:38:51Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244507408728850468",
@@ -1512,7 +2184,7 @@
       "url": "https://www.bilibili.com/opus/1244507408728850468",
       "author_action": "",
       "first_seen_at": "2026-09-05T09:38:51Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244506597004148755",
@@ -1528,7 +2200,7 @@
       "url": "https://www.bilibili.com/opus/1244506597004148755",
       "author_action": "",
       "first_seen_at": "2026-09-05T09:38:51Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244506545473978401",
@@ -1558,7 +2230,7 @@
         "author_action": "投稿了视频"
       },
       "first_seen_at": "2026-09-05T09:38:51Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244500180290502658",
@@ -1574,7 +2246,7 @@
       "url": "https://www.bilibili.com/opus/1244500180290502658",
       "author_action": "",
       "first_seen_at": "2026-09-05T09:38:51Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244496761535332355",
@@ -1590,7 +2262,7 @@
       "url": "https://www.bilibili.com/opus/1244496761535332355",
       "author_action": "",
       "first_seen_at": "2026-09-05T09:38:51Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244495981951582225",
@@ -1606,7 +2278,7 @@
       "url": "https://www.bilibili.com/opus/1244495981951582225",
       "author_action": "",
       "first_seen_at": "2026-09-05T09:38:51Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244486419239403524",
@@ -1622,7 +2294,7 @@
       "url": "https://www.bilibili.com/opus/1244486419239403524",
       "author_action": "",
       "first_seen_at": "2026-09-05T09:38:51Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244482141432053767",
@@ -1638,7 +2310,7 @@
       "url": "https://www.bilibili.com/opus/1244482141432053767",
       "author_action": "投稿了文章",
       "first_seen_at": "2026-09-05T09:38:51Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244481806462353429",
@@ -1654,7 +2326,7 @@
       "url": "https://www.bilibili.com/video/BV1A9te6GELn",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-05T09:38:51Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244480520100773904",
@@ -1670,7 +2342,7 @@
       "url": "https://www.bilibili.com/opus/1244480520100773904",
       "author_action": "",
       "first_seen_at": "2026-09-05T09:38:51Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244469655953735688",
@@ -1686,7 +2358,7 @@
       "url": "https://www.bilibili.com/video/BV16Bty6AEV7",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-05T09:38:51Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244468483465412627",
@@ -1702,7 +2374,7 @@
       "url": "https://www.bilibili.com/opus/1244468483465412627",
       "author_action": "",
       "first_seen_at": "2026-09-05T09:38:51Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     },
     {
       "id": "1244466344555970581",
@@ -1718,515 +2390,7 @@
       "url": "https://www.bilibili.com/video/BV1rRt16gEfx",
       "author_action": "投稿了视频",
       "first_seen_at": "2026-09-05T09:38:51Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
-    },
-    {
-      "id": "1244454550599893011",
-      "kind": "dynamic",
-      "dynamic_type": "DYNAMIC_TYPE_DRAW",
-      "major_type": "MAJOR_TYPE_OPUS",
-      "up": "英梨梨的男友",
-      "up_uid": "3100644",
-      "published_at": "2026-09-05T05:19:14Z",
-      "published_ts": 1788585554,
-      "title": "本周做卡组强度榜时候，有4个卡组的梯度有点拿不准，问问水友大数据怎么看？ 海盗旗皇：T2/T3 协作皇：T2/T3 手法：T1/T2 实验体法：T2/T3",
-      "text": "本周做卡组强度榜时候，有4个卡组的梯度有点拿不准，问问水友大数据怎么看？\n海盗旗皇：T2/T3\n协作皇：T2/T3\n手法：T1/T2\n实验体法：T2/T3",
-      "url": "https://www.bilibili.com/opus/1244454550599893011",
-      "author_action": "",
-      "first_seen_at": "2026-09-05T09:38:51Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
-    },
-    {
-      "id": "1244451655738458132",
-      "kind": "video",
-      "dynamic_type": "DYNAMIC_TYPE_AV",
-      "major_type": "MAJOR_TYPE_ARCHIVE",
-      "up": "诗歌Airu",
-      "up_uid": "162833371",
-      "published_at": "2026-09-05T05:08:00Z",
-      "published_ts": 1788584880,
-      "title": "“又把拉薇逗笑了~”【卡丘小剧场】",
-      "text": "如果有想出场的角色，欢迎提出来喵\n要是有三连就好了喵\n画师串：群挺缺德",
-      "url": "https://www.bilibili.com/video/BV1uct167Ezv",
-      "author_action": "投稿了视频",
-      "first_seen_at": "2026-09-05T09:38:51Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
-    },
-    {
-      "id": "1244436196052959238",
-      "kind": "dynamic",
-      "dynamic_type": "DYNAMIC_TYPE_DRAW",
-      "major_type": "MAJOR_TYPE_OPUS",
-      "up": "局长きょくちょ",
-      "up_uid": "1517060220",
-      "published_at": "2026-09-05T04:08:00Z",
-      "published_ts": 1788581280,
-      "title": "这种表情的瑠璃川酱也很可爱[局长收藏集表情包_怀疑蔑视]",
-      "text": "这种表情的瑠璃川酱也很可爱[局长收藏集表情包_怀疑蔑视]",
-      "url": "https://www.bilibili.com/opus/1244436196052959238",
-      "author_action": "",
-      "first_seen_at": "2026-09-05T09:38:51Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
-    },
-    {
-      "id": "1244435420787245091",
-      "kind": "video",
-      "dynamic_type": "DYNAMIC_TYPE_AV",
-      "major_type": "MAJOR_TYPE_ARCHIVE",
-      "up": "IGN中国",
-      "up_uid": "652239032",
-      "published_at": "2026-09-05T04:05:00Z",
-      "published_ts": 1788581100,
-      "title": "【IGN独家】《控制：共振》中的敌人和Boss将如何影响世界",
-      "text": "《控制：共振》展现了开发商Remedy继初代《控制》的实验后，向RPG世界迈进的更深一步。但这家工作室向来不按常理出牌。与该类型中大多数通过完成任务、击败Boss和清理支线来获取经验值的游戏不同，《共振》将升级机制赋予了你周围的世界。在这个被腐化的曼哈顿中，开放区域会随着你击败感染地区的巨大威胁而做出反应——每征服一个新区域，世界就会变得更加危险。",
-      "url": "https://www.bilibili.com/video/BV1A4tJ6eELJ",
-      "author_action": "投稿了视频",
-      "first_seen_at": "2026-09-05T09:38:51Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
-    },
-    {
-      "id": "1244434239665995777",
-      "kind": "video",
-      "dynamic_type": "DYNAMIC_TYPE_AV",
-      "major_type": "MAJOR_TYPE_ARCHIVE",
-      "up": "御子柴泉Official",
-      "up_uid": "3546801657350960",
-      "published_at": "2026-09-05T04:00:25Z",
-      "published_ts": 1788580825,
-      "title": "【ASMR】挠痒痒【3D】",
-      "text": "💚御子柴泉\n官网・委托渠道：https://ebioishi.com/\nX：https://x.com/asuparama40",
-      "url": "https://www.bilibili.com/video/BV1XYtC62Ewf",
-      "author_action": "投稿了视频",
-      "first_seen_at": "2026-09-05T09:38:51Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
-    },
-    {
-      "id": "1244434226758025239",
-      "kind": "video",
-      "dynamic_type": "DYNAMIC_TYPE_AV",
-      "major_type": "MAJOR_TYPE_ARCHIVE",
-      "up": "v猫诺v",
-      "up_uid": "70070",
-      "published_at": "2026-09-05T04:00:22Z",
-      "published_ts": 1788580822,
-      "title": "【猫诺】西安三天旅行体验!",
-      "text": "兵马俑,华山,大唐不夜城都很推荐哦~时间短只能玩一部分啦~~",
-      "url": "https://www.bilibili.com/video/BV1Uetz68EEb",
-      "author_action": "投稿了视频",
-      "first_seen_at": "2026-09-05T09:38:51Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
-    },
-    {
-      "id": "1244434170921353296",
-      "kind": "video",
-      "dynamic_type": "DYNAMIC_TYPE_AV",
-      "major_type": "MAJOR_TYPE_ARCHIVE",
-      "up": "台湾光荣特库摩游戏",
-      "up_uid": "297283960",
-      "published_at": "2026-09-05T04:00:09Z",
-      "published_ts": 1788580809,
-      "title": "《BLUE REFLECTION Quartet》世界观介绍影片",
-      "text": "《BLUE REFLECTION Quartet: 少女们的奇迹》已经发售一个多月了，感谢各位玩家的支持！\n这部短片送给尚在犹豫是否入手的朋友，一分钟带你了解蓝色反射系列四部作品的世界观。\n\n系列全部四部作品收录其中，《BLUE REFLECTION Quartet: 少女们的奇迹》好评热卖中！\n详情请见官网：https://blue-reflection.com/quartet/?utm_source=Weibo&utm_medium=social&utm_campaign=sns",
-      "url": "https://www.bilibili.com/video/BV1Dttz6eE7J",
-      "author_action": "投稿了视频",
-      "first_seen_at": "2026-09-05T09:38:51Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
-    },
-    {
-      "id": "1244434134463414290",
-      "kind": "dynamic",
-      "dynamic_type": "DYNAMIC_TYPE_DRAW",
-      "major_type": "MAJOR_TYPE_OPUS",
-      "up": "二重螺旋",
-      "up_uid": "3461571554577304",
-      "published_at": "2026-09-05T04:00:00Z",
-      "published_ts": 1788580800,
-      "title": "#二重螺旋# #第22只乐园的白兔# #重返乐园# 点滴·光阴集 | 法露茜 服从命令，是军人的唯一准则。 ✦ 法露茜光阴集全剧情将随新版本同步实装，狩月人可在…",
-      "text": "#二重螺旋# #第22只乐园的白兔# #重返乐园# \n点滴·光阴集 | 法露茜\n\n服从命令，是军人的唯一准则。\n\n✦  法露茜光阴集全剧情将随新版本同步实装，狩月人可在【休憩之所】点击【点滴】进入【光阴集】进行体验，完成任一阶段，可获得委托密函线索。全阶段光阴集故事阅读完毕后，可于成就系统领取法露茜专属前缀称号。\n——————————— \n✦ 9月8日「幻想风多维战斗爽游」-《二重螺旋》【第22只乐园的白兔】版本开启：https://www.biligame.com/detail/?id=111015\n✦ 版本特别福利：「华彩沙漏」*10、「委托手册·四」*5等好礼登录即领！\n✦ 全新角色法露茜登场，暗黑童话风场景上线，泊暮篇主线剧情同步更新，更多新增优化与升级体验等待探索！\n✦ 【云·二重螺旋】新增网页端版本，新版本期间，登录任意端云游戏，即领10小时免费时长！",
-      "url": "https://www.bilibili.com/opus/1244434134463414290",
-      "author_action": "",
-      "first_seen_at": "2026-09-05T09:38:51Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
-    },
-    {
-      "id": "1244434134456074241",
-      "kind": "dynamic",
-      "dynamic_type": "DYNAMIC_TYPE_DRAW",
-      "major_type": "MAJOR_TYPE_OPUS",
-      "up": "HIKARI-FIELD",
-      "up_uid": "41883712",
-      "published_at": "2026-09-05T04:00:00Z",
-      "published_ts": 1788580800,
-      "title": "《淑女同萌！》官方中文版现正于Steam促销热卖中！最低仅需23元即可入手！ https://store.steampowered.com/app/783120…",
-      "text": "《淑女同萌！》官方中文版现正于Steam促销热卖中！最低仅需23元即可入手！\nhttps://store.steampowered.com/app/783120\n\n本作内置简体中文、繁体中文与日文三版本，并支持集换卡牌、云存储以及游戏手柄操作等附加功能，同时也支持额外内容。\n\n《淑女同萌！》是美少女游戏品牌晓WORKS制作的一款兼具校园喜剧与复仇悲剧题材的作品，游戏拥有独特的致敬莎士比亚舞台剧风格的强烈特色。由佐伯北都担当原画，日野亘与众堂乔负责剧本。同时也有遥空、北见六花、桐谷华等知名声优担当配音。中文版是同时收录PC版与PSV版剧情的集大成版本。\n\n#HIKARIFIELD# #GALGAME# #GAL# #游戏# #STEAM游戏# #STEAM#  #视觉小说类游戏# #视觉小说#",
-      "url": "https://www.bilibili.com/opus/1244434134456074241",
-      "author_action": "",
-      "first_seen_at": "2026-09-05T09:38:51Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
-    },
-    {
-      "id": "1244434134430908451",
-      "kind": "dynamic",
-      "dynamic_type": "DYNAMIC_TYPE_DRAW",
-      "major_type": "MAJOR_TYPE_OPUS",
-      "up": "UCG_Official",
-      "up_uid": "2250815",
-      "published_at": "2026-09-05T04:00:00Z",
-      "published_ts": 1788580800,
-      "title": "兄弟，一起为帝皇而战！由SEGA和CreativeAssembly举办的《全面战争：战锤40000》首次官方独立线下试玩会于9月5日在上海正式举办。UCG有幸受…",
-      "text": "兄弟，一起为帝皇而战！由SEGA和CreativeAssembly举办的《全面战争：战锤40000》首次官方独立线下试玩会于9月5日在上海正式举办。UCG有幸受邀，体验到了试玩会中的各项活动。除了游戏试玩体验，还有阵营测试、自定义涂装等趣味活动可以参与。更详细的试玩内容介绍，请等待我们的后续报道！",
-      "url": "https://www.bilibili.com/opus/1244434134430908451",
-      "author_action": "",
-      "first_seen_at": "2026-09-05T09:38:51Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
-    },
-    {
-      "id": "1244433110111617029",
-      "kind": "video",
-      "dynamic_type": "DYNAMIC_TYPE_AV",
-      "major_type": "MAJOR_TYPE_ARCHIVE",
-      "up": "手残的小光",
-      "up_uid": "333636069",
-      "published_at": "2026-09-05T03:56:02Z",
-      "published_ts": 1788580562,
-      "title": "瘟疫之星提前准备，warframe（星际战甲国际服）",
-      "text": "瘟疫之星提前准备，warframe（星际战甲国际服）\n粉丝1群：705494406\n2群569953930\n3群922502914\n4群773985120\n5群534203665\n6群885664690\n7群1101575998\n每天晚上直播",
-      "url": "https://www.bilibili.com/video/BV1j4t168E9C",
-      "author_action": "投稿了视频",
-      "first_seen_at": "2026-09-05T09:38:51Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
-    },
-    {
-      "id": "1244431409291984898",
-      "kind": "video",
-      "dynamic_type": "DYNAMIC_TYPE_AV",
-      "major_type": "MAJOR_TYPE_ARCHIVE",
-      "up": "伊布力斯",
-      "up_uid": "471517112",
-      "published_at": "2026-09-05T03:49:26Z",
-      "published_ts": 1788580166,
-      "title": "TKFM 29季魔狱塔60层机制攻略",
-      "text": "-",
-      "url": "https://www.bilibili.com/video/BV1Zpt16wEB7",
-      "author_action": "投稿了视频",
-      "first_seen_at": "2026-09-05T09:38:51Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
-    },
-    {
-      "id": "1244427281840996352",
-      "kind": "video",
-      "dynamic_type": "DYNAMIC_TYPE_AV",
-      "major_type": "MAJOR_TYPE_ARCHIVE",
-      "up": "伊布力斯",
-      "up_uid": "471517112",
-      "published_at": "2026-09-05T03:33:25Z",
-      "published_ts": 1788579205,
-      "title": "TKFM 29季魔狱塔55层机制攻略",
-      "text": "-",
-      "url": "https://www.bilibili.com/video/BV1AXt16kEy3",
-      "author_action": "投稿了视频",
-      "first_seen_at": "2026-09-05T09:38:51Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
-    },
-    {
-      "id": "1244426723477422081",
-      "kind": "dynamic",
-      "dynamic_type": "DYNAMIC_TYPE_DRAW",
-      "major_type": "MAJOR_TYPE_OPUS",
-      "up": "二柄APP",
-      "up_uid": "90668673",
-      "published_at": "2026-09-05T03:31:15Z",
-      "published_ts": 1788579075,
-      "title": "【CDPR公布核心项目研发规模：《巫师 4》520 人团队占近半人力】继科隆展公开《巫师 3：过往之歌》DLC 后，CDPR披露旗下各项目开发人员配置。作为工作…",
-      "text": "【CDPR公布核心项目研发规模：《巫师 4》520 人团队占近半人力】继科隆展公开《巫师 3：过往之歌》DLC 后，CDPR披露旗下各项目开发人员配置。作为工作室下一核心主力作品，《巫师 4》当前配备 520 名开发者，占工作室总规模的近半数，游戏瞄准 2028 年发售窗口。\n\n《赛博朋克》续作以超 180 人的团队规模位居第二，全新 IP 项目 Project Hadar 则有 30 余名开发者正在参与研发。官方表示后续还计划扩招 50 名开发人员。当前多数游戏工作室倾向于单项目集中开发模式，而CDPR 选择了多线并行推进多款大体量作品的研发节奏。",
-      "url": "https://www.bilibili.com/opus/1244426723477422081",
-      "author_action": "",
-      "first_seen_at": "2026-09-05T09:38:51Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
-    },
-    {
-      "id": "1244421152893304855",
-      "kind": "video",
-      "dynamic_type": "DYNAMIC_TYPE_AV",
-      "major_type": "MAJOR_TYPE_ARCHIVE",
-      "up": "伊布力斯",
-      "up_uid": "471517112",
-      "published_at": "2026-09-05T03:09:38Z",
-      "published_ts": 1788577778,
-      "title": "TXFM 29季魔狱塔 50层机制攻略",
-      "text": "-",
-      "url": "https://www.bilibili.com/video/BV1mCt16mE1H",
-      "author_action": "投稿了视频",
-      "first_seen_at": "2026-09-05T09:38:51Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
-    },
-    {
-      "id": "1244418709078933591",
-      "kind": "repost",
-      "dynamic_type": "DYNAMIC_TYPE_FORWARD",
-      "major_type": "",
-      "up": "碧蓝航线",
-      "up_uid": "233114659",
-      "published_at": "2026-09-05T03:00:09Z",
-      "published_ts": 1788577209,
-      "title": "恭喜@物语轮回@达令samer@をしサび等7位同学中奖，已私信通知，详情请点击抽奖查看。",
-      "text": "恭喜@物语轮回@达令samer@をしサび等7位同学中奖，已私信通知，详情请点击抽奖查看。",
-      "url": "https://t.bilibili.com/1244418709078933591",
-      "author_action": "",
-      "original": {
-        "id": "1238226220898844708",
-        "kind": "dynamic",
-        "dynamic_type": "DYNAMIC_TYPE_DRAW",
-        "major_type": "MAJOR_TYPE_OPUS",
-        "up": "碧蓝航线",
-        "up_uid": "233114659",
-        "published_at": "2026-08-19T10:30:08Z",
-        "published_ts": 1787135408,
-        "title": "#碧蓝航线#互动抽奖 鬓扬宵色，纤月逐风，绮席珍肴罗遍。 盘堆锦果千般艳，笑映星河一寸纨。 ◆筵前望鹊河◆ 七夕节的仪式感，一半藏在美食里~ 巧果、酥糖、瓜果……",
-        "text": "#碧蓝航线#互动抽奖 \n鬓扬宵色，纤月逐风，绮席珍肴罗遍。\n盘堆锦果千般艳，笑映星河一寸纨。\n\n◆筵前望鹊河◆\n七夕节的仪式感，一半藏在美食里~\n巧果、酥糖、瓜果……各地风俗大不同。指挥官，快在评论区分享你心中的七夕限定美味，让小加加也尝一口吧！\n关注@碧蓝航线 并转发该内容，我们将于9月5日抽取3位指挥官送出【碧蓝航线 纪念戒指】，抽取4位指挥官送出【碧蓝航线 钥匙扣】~",
-        "url": "https://www.bilibili.com/opus/1238226220898844708",
-        "author_action": ""
-      },
-      "first_seen_at": "2026-09-05T09:38:51Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
-    },
-    {
-      "id": "1244418678992142370",
-      "kind": "video",
-      "dynamic_type": "DYNAMIC_TYPE_AV",
-      "major_type": "MAJOR_TYPE_ARCHIVE",
-      "up": "上海爱丽丝幻乐团",
-      "up_uid": "517717593",
-      "published_at": "2026-09-05T03:00:02Z",
-      "published_ts": 1788577202,
-      "title": "《东方红魔乡：新典》发售宣传片",
-      "text": "《东方红魔乡：新典》现已制作完成！\n9月10日0时（日本时间）正式发售，敬请期待！\n\nSteam：\nhttps://store.steampowered.com/app/4659620/\n\n■官方网站\nhttps://touhou-project.news/shanghai-alice-reprise/\n\n©2002,2026 上海爱丽丝幻乐团\n©2026 上海爱丽丝幻乐团 / 上海爱丽丝幻回奏",
-      "url": "https://www.bilibili.com/video/BV1uttq6oECu",
-      "author_action": "投稿了视频",
-      "first_seen_at": "2026-09-05T09:38:51Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
-    },
-    {
-      "id": "1244418672555982852",
-      "kind": "dynamic",
-      "dynamic_type": "DYNAMIC_TYPE_DRAW",
-      "major_type": "MAJOR_TYPE_OPUS",
-      "up": "二重螺旋",
-      "up_uid": "3461571554577304",
-      "published_at": "2026-09-05T03:00:00Z",
-      "published_ts": 1788577200,
-      "title": "✦「第22只乐园的白兔」版本活动一览✦ 亲爱的狩月人，「第22只乐园的白兔」版本活动信息现已整理完毕，请狩月人查收。 【罪者的归途】 活动时间：2026年9月8…",
-      "text": "✦「第22只乐园的白兔」版本活动一览✦\n\n亲爱的狩月人，「第22只乐园的白兔」版本活动信息现已整理完毕，请狩月人查收。\n\n【罪者的归途】\n活动时间：2026年9月8日更新后 ~ 2026年10月19日 17:00（UTC+8）\n奖励内容：「华彩沙漏*10」\n【庆典漫游指南】\n2026年9月8日更新后~ 2026年10月19日 17:00（UTC+8）\n奖励内容：「华彩沙漏*2」「月石*300」「增幅激化器*１」..\n【盈华返利】\n2026年9月8日更新后~ 2026年10月19日 17:00（UTC+8）\n【以德服皎】\n2026年9月8日更新后~ 2026年9月29日 05:00（UTC+8）\n【华彩图记】\n2026年9月8日更新后 ~ 2026年10月19日 17:00（UTC+8）\n【定格的往事】\n2026年9月10日 10:00 ~ 2026年9月29日 05:00（UTC+8）\n奖励内容：「华彩沙漏*2」「星辉丝线*4」「喵喵代金券*１」..\n【星耀巡游】\n2026年9月17日 10:00 ~ 2026年9月30日 05:00（UTC+8）\n奖励内容：「华彩沙漏*2」「月石*300」「熔炼模具*１」..\n【星耀纪念·Ⅰ】\n活动时间：2026年9月24日 10:00　~ 2026年10月11日  05:00（UTC+8）\n奖励内容：「华彩沙漏*2」「星辉丝线*2」「城市守则·尼弗尔夫人*１」..\n【微茫珍藏】\n2026年10月1日 10:00 ~ 2026年10月13日 05:00（UTC+8）\n奖励内容：「华彩沙漏*4」「月石*600」「增幅激化器*１」..\n【收获日】\n活动时间：\n2026年9月10日 10:00 ~ 2026年9月17日 05:00（UTC+8）\n2026年10月1日 10:00 ~ 2026年10月8日 05:00（UTC+8）\n【沉浸式戏剧·联袂演绎】\n活动时间：2026年9月17日 10:00 ~ 2026年10月18日 17:00 \n奖励内容：「战斗旋律·三」「武器说明书·三」..\n【狩月人之阶】\n活动时间：2026年10月7日 10:00 ~ 2026年10月16日 00:00 \n奖励内容：「增幅激化器」「熔炼模具」..",
-      "url": "https://www.bilibili.com/opus/1244418672555982852",
-      "author_action": "",
-      "first_seen_at": "2026-09-05T09:38:51Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
-    },
-    {
-      "id": "1244410144884785160",
-      "kind": "dynamic",
-      "dynamic_type": "DYNAMIC_TYPE_DRAW",
-      "major_type": "MAJOR_TYPE_OPUS",
-      "up": "二柄APP",
-      "up_uid": "90668673",
-      "published_at": "2026-09-05T02:26:55Z",
-      "published_ts": 1788575215,
-      "title": "【《地铁 2039》主机性能模式支持光追60帧】4A Games 旗下末世新作《地铁 2039》正式确认游戏将于2027年2月4日登陆 PS5、PS5 Pro、…",
-      "text": "【《地铁 2039》主机性能模式支持光追60帧】4A Games 旗下末世新作《地铁 2039》正式确认游戏将于2027年2月4日登陆 PS5、PS5 Pro、Xbox Series X|S 及 PC 平台。\n\n官方同步披露性能参数：主机端性能模式将支持光线追踪开启状态下稳定 60 帧运行，覆盖 PS5、PS5 Pro 与 Xbox Series X 全主机平台，该特性将随游戏发售同步实装。其余画面模式与 PC 版详细配置将在发售前逐步公布。",
-      "url": "https://www.bilibili.com/opus/1244410144884785160",
-      "author_action": "",
-      "first_seen_at": "2026-09-05T09:38:51Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
-    },
-    {
-      "id": "1244404608705495040",
-      "kind": "dynamic",
-      "dynamic_type": "DYNAMIC_TYPE_DRAW",
-      "major_type": "MAJOR_TYPE_OPUS",
-      "up": "二柄APP",
-      "up_uid": "90668673",
-      "published_at": "2026-09-05T02:05:26Z",
-      "published_ts": 1788573926,
-      "title": "【《GTA6》实机演示拉动主机销量 英国PS5周销量环比上涨 33%】《GTA6》加长实机演示在Netflix上线后累计收获 3110 万次观看，同时直接带动游…",
-      "text": "【《GTA6》实机演示拉动主机销量 英国PS5周销量环比上涨 33%】《GTA6》加长实机演示在Netflix上线后累计收获 3110 万次观看，同时直接带动游戏硬件销量上涨。英国市场调研机构 Nielsen IQ 数据显示，演示放出当周 PS5 销量上涨 33%，Xbox Series X|S 销量上涨 34%。全球多地零售商出现主机缺货，英国地区第三方渠道基本售罄，仅索尼官方商城仍有一款 PS5 Pro 型号可直接购买。\n\n《GTA6》自 6 月开启预购后持续登顶各地区 PS 商店销量榜，Take-Two CEO 称预购表现空前但暂不调整业绩预期。游戏将于 11 月 19 日正式登陆 PS5 与 Xbox Series X|S 平台。",
-      "url": "https://www.bilibili.com/opus/1244404608705495040",
-      "author_action": "",
-      "first_seen_at": "2026-09-05T09:38:51Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
-    },
-    {
-      "id": "1244404497042636801",
-      "kind": "video",
-      "dynamic_type": "DYNAMIC_TYPE_AV",
-      "major_type": "MAJOR_TYPE_ARCHIVE",
-      "up": "IGN中国",
-      "up_uid": "652239032",
-      "published_at": "2026-09-05T02:05:00Z",
-      "published_ts": 1788573900,
-      "title": "【IGN】《异于天堂》执行总监横山昌义访谈视频",
-      "text": "《异于天堂（STRANGER THAN HEAVEN）》是人中之龙工作室打造的戏剧性冒险类游戏。这是一个关于无处安身的男人们，为了寻找归宿而战斗了50年的故事。 贯穿五个时代、五座城市，刻画动荡的近代日本。游戏将于2027年1月15日登陆PS5、XBOX Series和PC平台，同步加入Game Pass游戏库。",
-      "url": "https://www.bilibili.com/video/BV1eftz6VEZw",
-      "author_action": "投稿了视频",
-      "first_seen_at": "2026-09-05T09:38:51Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
-    },
-    {
-      "id": "1244403221399601216",
-      "kind": "repost",
-      "dynamic_type": "DYNAMIC_TYPE_FORWARD",
-      "major_type": "",
-      "up": "碧蓝航线",
-      "up_uid": "233114659",
-      "published_at": "2026-09-05T02:00:03Z",
-      "published_ts": 1788573603,
-      "title": "恭喜@CG@不思議な白兎です@画面重新来过等7位同学中奖，已私信通知，详情请点击抽奖查看。",
-      "text": "恭喜@CG@不思議な白兎です@画面重新来过等7位同学中奖，已私信通知，详情请点击抽奖查看。",
-      "url": "https://t.bilibili.com/1244403221399601216",
-      "author_action": "",
-      "original": {
-        "id": "1238218468532158553",
-        "kind": "dynamic",
-        "dynamic_type": "DYNAMIC_TYPE_DRAW",
-        "major_type": "MAJOR_TYPE_OPUS",
-        "up": "碧蓝航线",
-        "up_uid": "233114659",
-        "published_at": "2026-08-19T10:00:03Z",
-        "published_ts": 1787133603,
-        "title": "#碧蓝航线#互动抽奖 风牵梅萼，绯萦素练，漫天芳英满榭。 花摇烟岫千重绮，眸浸流霞半幅纱。 ◆梅霞浸玉眸◆ 听说七夕节大家会通过姻缘签来寄托美好心愿，而月老的红…",
-        "text": "#碧蓝航线#互动抽奖 \n风牵梅萼，绯萦素练，漫天芳英满榭。\n花摇烟岫千重绮，眸浸流霞半幅纱。\n\n◆梅霞浸玉眸◆\n听说七夕节大家会通过姻缘签来寄托美好心愿，而月老的红绳象征着对幸福缘分的向往~\n指挥官，如果让你在七夕许一个与“缘分”有关的心愿，你会许什么呢？欢迎指挥官在评论区畅所欲言，小加加会记住所有美好的心愿哦！ \n关注@碧蓝航线 并转发该内容，我们将于9月5日抽取3位指挥官送出【碧蓝航线 纪念戒指】，抽取4位指挥官送出【碧蓝航线 手机支架】~",
-        "url": "https://www.bilibili.com/opus/1238218468532158553",
-        "author_action": ""
-      },
-      "first_seen_at": "2026-09-05T09:38:51Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
-    },
-    {
-      "id": "1244403210708320277",
-      "kind": "dynamic",
-      "dynamic_type": "DYNAMIC_TYPE_DRAW",
-      "major_type": "MAJOR_TYPE_OPUS",
-      "up": "水月雨Moondrop",
-      "up_uid": "434249025",
-      "published_at": "2026-09-05T02:00:00Z",
-      "published_ts": 1788573600,
-      "title": "上号，开黑！ 穿对衣服有buff加成_(≧∇≦」∠)_ #水月雨#",
-      "text": "上号，开黑！\n\n穿对衣服有buff加成_(≧∇≦」∠)_\n\n#水月雨#",
-      "url": "https://www.bilibili.com/opus/1244403210708320277",
-      "author_action": "",
-      "first_seen_at": "2026-09-05T09:38:51Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
-    },
-    {
-      "id": "1244399446145368070",
-      "kind": "dynamic",
-      "dynamic_type": "DYNAMIC_TYPE_DRAW",
-      "major_type": "MAJOR_TYPE_OPUS",
-      "up": "GinkaSnow",
-      "up_uid": "131168211",
-      "published_at": "2026-09-05T01:45:24Z",
-      "published_ts": 1788572724,
-      "title": "分享图片",
-      "text": "分享图片",
-      "url": "https://www.bilibili.com/opus/1244399446145368070",
-      "author_action": "",
-      "first_seen_at": "2026-09-05T09:38:51Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
-    },
-    {
-      "id": "1244392088842272792",
-      "kind": "dynamic",
-      "dynamic_type": "DYNAMIC_TYPE_DRAW",
-      "major_type": "MAJOR_TYPE_OPUS",
-      "up": "二柄APP",
-      "up_uid": "90668673",
-      "published_at": "2026-09-05T01:16:51Z",
-      "published_ts": 1788571011,
-      "title": "【《巫师 3：旧时曲》愿望单总量突破 90 万】CDPR官方确认，大型扩展包《巫师 3：旧时曲》愿望单数量已经达到 90 万。科隆游戏展放出预告片与实机演示之后…",
-      "text": "【《巫师 3：旧时曲》愿望单总量突破 90 万】CDPR官方确认，大型扩展包《巫师 3：旧时曲》愿望单数量已经达到 90 万。科隆游戏展放出预告片与实机演示之后，该作玩家期待度迎来大幅上涨。\n\n《巫师 3：旧时曲》规模与《血与酒》相当，暂定 2027 年登陆 PS5、Xbox Series X|S、PC 以及 Switch 2 平台，此外《巫师 3：狂猎》复刻版将于 9 月 29 日推出。",
-      "url": "https://www.bilibili.com/opus/1244392088842272792",
-      "author_action": "",
-      "first_seen_at": "2026-09-05T09:38:51Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
-    },
-    {
-      "id": "1244389039455338497",
-      "kind": "video",
-      "dynamic_type": "DYNAMIC_TYPE_AV",
-      "major_type": "MAJOR_TYPE_ARCHIVE",
-      "up": "IGN中国",
-      "up_uid": "652239032",
-      "published_at": "2026-09-05T01:05:01Z",
-      "published_ts": 1788570301,
-      "title": "【IGN】《极速跑者2：速度之王》发售宣传视频",
-      "text": "终极竞赛平台游戏回来了！在激烈到令人窒息的线上/本地竞速中，比你的对手跑得更快、跳得更高并且脑筋转得更快——现可支持多达8位玩家。掌握运动规律、熟悉精心设计的地图、使用强大的道具、借助一个钩爪飞来荡去，并且不要被击出屏幕之外！《极速跑者2：速度之王（SpeedRunners 2: King of Speed）》现已登陆PS5、XBOX Series、Switch及PC平台。",
-      "url": "https://www.bilibili.com/video/BV1sDte65Ejd",
-      "author_action": "投稿了视频",
-      "first_seen_at": "2026-09-05T09:38:51Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
-    },
-    {
-      "id": "1244387789594689584",
-      "kind": "video",
-      "dynamic_type": "DYNAMIC_TYPE_AV",
-      "major_type": "MAJOR_TYPE_ARCHIVE",
-      "up": "ZJM-----",
-      "up_uid": "16730771",
-      "published_at": "2026-09-05T01:00:10Z",
-      "published_ts": 1788570010,
-      "title": "奔赴 Tau 星系！领取 Warframe 活动限定荣誉称号！",
-      "text": "https://www.warframe.com/zh-hans/taubound",
-      "url": "https://www.bilibili.com/video/BV1XKt66BEGd",
-      "author_action": "投稿了视频",
-      "first_seen_at": "2026-09-05T09:38:51Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
-    },
-    {
-      "id": "1244387748767334418",
-      "kind": "dynamic",
-      "dynamic_type": "DYNAMIC_TYPE_DRAW",
-      "major_type": "MAJOR_TYPE_OPUS",
-      "up": "HIKARI-FIELD",
-      "up_uid": "41883712",
-      "published_at": "2026-09-05T01:00:00Z",
-      "published_ts": 1788570000,
-      "title": "《茂伸奇谈-Happy End-》官方中文版现正于Steam促销热卖中！最低仅需34元即可入手！ https://store.steampowered.com/…",
-      "text": "《茂伸奇谈-Happy End-》官方中文版现正于Steam促销热卖中！最低仅需34元即可入手！\nhttps://store.steampowered.com/app/831660\n\n《茂伸奇谈-HAPPY END- 合集版》将《茂伸奇谈 本篇》与《茂伸奇谈 后传》整合为一个整体。 中文版使用了最终优化的剧情版本进行制作，并且同时收录了PSV版《ものべの-pure smile-》与PC版《ものべの-happy end-》各自拥有的独占剧情。 可以说是迄今为止集《茂伸奇谈》内容之大成的版本。\n《茂伸奇谈-HAPPY END-》是《茂伸奇谈-Monobeno-》的续集故事（FAN DISC）。《茂伸奇谈》三条女主角线路的后续故事分别是「夏叶After Story」、「爱丽丝After Story」和「栖美After Story」。本次的《HAPPY END》中文版还收录了大量追加短篇故事，这些故事会在通关各条女主角后续故事后在主界面下的“章节选择”中解锁。\n\n#HIKARIFIELD# #GALGAME# #GAL# #游戏# #STEAM游戏# #STEAM#  #视觉小说类游戏# #视觉小说#",
-      "url": "https://www.bilibili.com/opus/1244387748767334418",
-      "author_action": "",
-      "first_seen_at": "2026-09-05T09:38:51Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
-    },
-    {
-      "id": "1244385710864072707",
-      "kind": "dynamic",
-      "dynamic_type": "DYNAMIC_TYPE_DRAW",
-      "major_type": "MAJOR_TYPE_OPUS",
-      "up": "二柄APP",
-      "up_uid": "90668673",
-      "published_at": "2026-09-05T00:52:06Z",
-      "published_ts": 1788569526,
-      "title": "【神谷英树再度表态：希望重启被取消的《龙鳞化身》】近日，《生化危机2》与《鬼泣》制作人神谷英树在采访中表示，他仍强烈渴望重启Xbox取消的动作RPG《龙鳞化身》…",
-      "text": "【神谷英树再度表态：希望重启被取消的《龙鳞化身》】近日，《生化危机2》与《鬼泣》制作人神谷英树在采访中表示，他仍强烈渴望重启Xbox取消的动作RPG《龙鳞化身》。该作在经历四年开发与多次预告后被砍，但他强调此意愿“百分百认真”，并常与Clovers工作室前团队成员讨论此计划。他相信“只要足够想要，总能找到实现方法”。虽然现任团队正忙于《大神》续作，且他尚未与Xbox方面正式接洽，但考虑到团队经验积累与Xbox对新作的需求，此时重启该作或许是一个值得考虑的想法。",
-      "url": "https://www.bilibili.com/opus/1244385710864072707",
-      "author_action": "",
-      "first_seen_at": "2026-09-05T09:38:51Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
-    },
-    {
-      "id": "1244373573263425544",
-      "kind": "video",
-      "dynamic_type": "DYNAMIC_TYPE_AV",
-      "major_type": "MAJOR_TYPE_ARCHIVE",
-      "up": "IGN中国",
-      "up_uid": "652239032",
-      "published_at": "2026-09-05T00:05:00Z",
-      "published_ts": 1788566700,
-      "title": "【IGN】《海狸浮生记》1.1更新宣传视频",
-      "text": "人类早已不复存在。在这个干旱和有毒废料肆虐的世界里，你的木造朋克海狸们的命运又将如何？这款城市建造游戏包含机智的动物、巧妙的垂直建筑、多样的水物理运用与地形改造。《海狸浮生记》1.1更新现已推出，新增数据统计、全新防水建筑、休闲建筑与纪念碑、全新地图，以及更多精彩内容。",
-      "url": "https://www.bilibili.com/video/BV1pQte6CERr",
-      "author_action": "投稿了视频",
-      "first_seen_at": "2026-09-05T09:38:51Z",
-      "last_seen_at": "2026-09-06T05:26:39Z"
+      "last_seen_at": "2026-09-06T11:31:03Z"
     }
   ]
 }
