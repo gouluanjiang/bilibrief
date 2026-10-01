@@ -1,8 +1,16 @@
 {
-  "status": "ok",
-  "checked_at": "2026-09-08T05:28:31Z",
+  "schema_version": 2,
+  "status": "error",
+  "checked_at": "2026-10-01T05:16:21Z",
   "last_success_at": "2026-09-08T05:28:31Z",
-  "fetched_items": 603,
-  "latest_items": 150,
-  "message": "ok"
+  "snapshot_generated_at": "2026-09-08T05:28:31Z",
+  "fetched_items": 0,
+  "latest_items": 0,
+  "new_items": 0,
+  "coverage": {
+    "complete": false,
+    "scope": "observed_following_feed_window"
+  },
+  "error_code": "login_required",
+  "message": "Bilibili login verification failed; check the monitoring account login and Secret privately."
 }
