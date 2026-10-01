@@ -178,7 +178,7 @@ https://你的GitHub用户名.github.io/bilibrief/latest.json
 - 13:20
 - 19:20
 
-这样早上 8 点 ChatGPT 日报运行前，理论上已经有一次 07:20 左右的最新采集。
+用户已确认日报时间为每天北京时间 21:00（Asia/Shanghai）；按现有采集计划，理论上此前有一次 19:20 左右的采集。日报任务由主任务单独设置，本仓库不会创建或启用推送。
 
 注意：GitHub 官方的 scheduled workflow **不是实时调度系统**，高峰期可能延迟几分钟甚至更久，所以 `latest.json` 使用 30 小时窗口，而不是死卡 24 小时。
 
@@ -228,7 +228,30 @@ https://example.github.io/bilibrief/latest.json
 
 ### `health.json` 显示 Cookie expired / login verification failed
 
-Cookie 过期了。重新在 Bilibili 网页获取 Cookie，然后覆盖 GitHub Secret `BILIBILI_COOKIE`，再手动运行一次 workflow。
+这表示登录校验未通过，不能仅据此断定 Cookie 已过期。由账号所有者在自己的浏览器确认监控账号能正常登录、访问关注动态，并在仓库设置中私下覆盖 `BILIBILI_COOKIE`。不要将凭据发到聊天、PR 或仓库文件。然后由维护者在审核合并修复后，从默认分支手动运行一次 workflow，并同时检查采集、部署结果和公开 JSON 的时间。
+
+### 失败状态、陈旧数据与恢复
+
+- `health.json` 记录本次 `checked_at`、最近成功的 `last_success_at`、固定分类 `error_code` 和 `coverage.complete`。失败时保留 archive/latest/recent 的字节和原生成时间；缺少 Cookie 也不会丢失历史成功时间。
+- 所有输出先暂存，再替换。发生替换失败时回滚；回滚或健康状态写入失败会阻止本次发布。进程被强制终止、依赖安装或发布失败仍可能让公开状态变旧，消费者必须独立检查新鲜度。
+- 采集失败但错误状态可安全保存时，工作流仍尝试保存和发布健康状态，采集 job 和整个 run 保持失败。Pages 是否实际发布以单独 `deploy` job 为准，不能从 `health.status` 推断部署成功。
+- 默认分支之外不会读取生产采集 Secrets、提交生产数据或部署。PR CI 仅运行离线测试和工作流校验。
+- 缺少分页字段、重复游标、空页却声称还有下一页、畸形条目或达到 30 页上限均报 `incomplete_feed`，保留旧快照。`coverage.complete=true` 仅指观察到的关注流窗口正常结束，不保证上游未返回、删除或超出保留期的内容。
+- `new_items` 是本次新增到保留范围的可发布动态数；它不是已送达日报数。重复抓取不会重复追加同一动态。
+
+稳定读取入口是 `https://gouluanjiang.github.io/bilibrief/health.json`、`latest.json` 和 `recent.json`。每次先校验健康状态与三个时间；超过 10 小时未成功、未来时间、不一致快照或读取失败都应报告“数据源异常”，不能说“无更新”。这三个路径继续兼容原有调用。
+
+### 日报候选接口与去重记录
+
+见 [独立日报接续说明](docs/chatgpt-daily-task.md)。`src/brief.py` 是只读离线接口，不发送通知、不更改去重记录：
+
+```bash
+python src/brief.py --since 2026-09-30T13:00:00Z --until 2026-10-01T13:00:00Z --reported /private/path/reported.json
+```
+
+时间必须带时区，主窗口为 `(since, until]`。结果按 UP 主分组，包含标题、发布时间、来自正文/简介的候选摘要、原链接、`identity_keys` 和 `catch_up`。`source_error` 返回非零退出码；只有新鲜、完整且可校验的快照才返回 `updates` 或 `no_updates`。内容筛选、精简摘要和送达确认仍由日报任务负责。
+
+`reported.json` 是此前**实际送达条目**的稳定标识字符串数组，保存在任务自己的持久存储，不提交仓库。标识包括动态 ID、BV 号、去掉跟踪参数的原链接。只有实际发送成功后才合并那些已发送条目的标识；预览、发送失败、采集异常都不能推进记录。第一次没有记录时仅取主窗口；有记录后可从 72 小时 `recent` 中补漏。视频和同目标宣传合并，额外正文保留为 `related_updates` 供语义筛选；不可把它当成已观看视频的摘要。
 
 ### GitHub Actions 日志出现 412 / 403 / connection reset
 
