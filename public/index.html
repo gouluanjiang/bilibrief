@@ -24,8 +24,14 @@
       .then(r => r.json())
       .then(h => {
         const el = document.getElementById('health');
-        el.className = h.status === 'ok' ? 'ok' : 'bad';
-        el.textContent = `状态：${h.status}；最近检查：${h.checked_at || '未知'}；最近成功：${h.last_success_at || '无'}`;
+        const success = Date.parse(h.last_success_at);
+        const checked = Date.parse(h.checked_at);
+        const fresh = Number.isFinite(success) && Number.isFinite(checked)
+          && success <= checked && checked <= Date.now()
+          && Date.now() - success <= 10 * 60 * 60 * 1000;
+        const state = h.status !== 'ok' ? '采集异常' : fresh ? '正常' : '数据已过期';
+        el.className = h.status === 'ok' && fresh ? 'ok' : 'bad';
+        el.textContent = `状态：${state}；最近检查：${h.checked_at || '未知'}；最近成功：${h.last_success_at || '无'}；${h.error_code || ''}`;
       })
       .catch(() => document.getElementById('health').textContent = '状态读取失败');
   </script>

@@ -11,9 +11,7 @@ on:
     - cron: '20 11 * * *'
 
 permissions:
-  contents: write
-  pages: write
-  id-token: write
+  contents: read
 
 concurrency:
   group: bilibrief-collector
@@ -21,7 +19,16 @@ concurrency:
 
 jobs:
   collect:
+    if: >-
+      github.ref == format('refs/heads/{0}', github.event.repository.default_branch) &&
+      (github.event_name == 'schedule' || github.event_name == 'workflow_dispatch')
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: write
+    outputs:
+      publishable: ${{ steps.collect.outputs.publishable }}
+      artifact_uploaded: ${{ steps.artifact.outcome }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -38,6 +45,8 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Collect Bilibili feed
+        id: collect
+        continue-on-error: true
         env:
           BILIBILI_COOKIE: ${{ secrets.BILIBILI_COOKIE }}
           HTTP_PROXY_URL: ${{ secrets.HTTP_PROXY_URL }}
@@ -47,6 +56,8 @@ jobs:
         run: python src/collector.py
 
       - name: Save rolling archive back to repository
+        id: save
+        if: ${{ steps.collect.outputs.publishable == 'true' }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -59,16 +70,47 @@ jobs:
           fi
 
       - name: Configure GitHub Pages
+        if: ${{ steps.collect.outputs.publishable == 'true' }}
         uses: actions/configure-pages@v5
 
       - name: Upload Pages artifact
+        id: artifact
+        if: ${{ steps.collect.outputs.publishable == 'true' }}
         uses: actions/upload-pages-artifact@v4
         with:
           path: public
 
+      - name: Summarize collection and publication preparation
+        if: ${{ always() }}
+        env:
+          COLLECTION: ${{ steps.collect.outcome }}
+          SAFE_OUTPUT: ${{ steps.collect.outputs.publishable }}
+          SAVE: ${{ steps.save.outcome }}
+          ARTIFACT: ${{ steps.artifact.outcome }}
+        run: |
+          {
+            echo "Collection: $COLLECTION"
+            echo "Safe output prepared: $SAFE_OUTPUT"
+            echo "Repository persistence: $SAVE"
+            echo "Pages artifact: $ARTIFACT"
+            echo "Actual publication status is recorded in the separate deploy job."
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Preserve collection failure signal
+        if: ${{ always() && steps.collect.outcome != 'success' }}
+        run: |
+          echo '::error::Collection failed; see health.json and the separate deployment result.'
+          exit 1
+
   deploy:
     needs: collect
+    if: >-
+      ${{ !cancelled() && needs.collect.outputs.publishable == 'true' &&
+          needs.collect.outputs.artifact_uploaded == 'success' }}
     runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}

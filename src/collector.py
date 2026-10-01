@@ -12,12 +12,14 @@ from __future__ import annotations
 
 import json
 import os
+import re
 import sys
+import tempfile
 import time
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlsplit, urlunsplit
 
 import requests
 
@@ -32,6 +34,42 @@ ARCHIVE_PATH = DATA_DIR / "archive.json"
 LATEST_PATH = PUBLIC_DIR / "latest.json"
 RECENT_PATH = PUBLIC_DIR / "recent.json"
 HEALTH_PATH = PUBLIC_DIR / "health.json"
+
+ERROR_MESSAGES = {
+    "missing_cookie": "BILIBILI_COOKIE is not configured.",
+    "login_required": "Bilibili login verification failed; check the monitoring account login and Secret privately.",
+    "network_error": "Bilibili could not be reached after retries.",
+    "http_error": "Bilibili returned an HTTP error after retries.",
+    "invalid_json": "Bilibili returned invalid JSON after retries.",
+    "api_error": "Bilibili rejected the feed request.",
+    "incomplete_feed": "Feed data or pagination is incomplete; the previous snapshot was retained.",
+    "archive_invalid": "The existing archive is invalid; it was retained for recovery.",
+    "invalid_config": "Collection windows must be positive integers: latest <= recent <= retention.",
+    "write_error": "Output could not be saved safely.",
+    "rollback_failed": "Snapshot recovery failed; publishing is blocked.",
+    "unexpected_error": "Collection failed unexpectedly; no raw exception details are published.",
+}
+
+
+class CollectionError(Exception):
+    def __init__(self, code: str):
+        self.code = code
+        super().__init__(ERROR_MESSAGES[code])
+
+
+def identity_keys(item: dict[str, Any]) -> list[str]:
+    """Stable aliases for delivery deduplication; tracking parameters are ignored."""
+    keys = []
+    if item.get("id"):
+        keys.append(f"dynamic:{item['id']}")
+    url = normalize_url(item.get("url"))
+    parts = urlsplit(url)
+    if parts.hostname in {"www.bilibili.com", "bilibili.com", "t.bilibili.com"}:
+        bvid = re.search(r"/video/(BV[0-9A-Za-z]+)(?:/|$)", parts.path)
+        if bvid:
+            keys.append(f"video:{bvid[1]}")
+        keys.append("url:" + urlunsplit(("https", parts.netloc.lower(), parts.path.rstrip("/"), "", "")))
+    return keys
 
 
 def utc_now() -> datetime:
@@ -181,6 +219,7 @@ def parse_one(item: dict[str, Any], *, nested: bool = False) -> dict[str, Any]:
         "url": target_url,
         "author_action": first_nonempty(author.get("pub_action")),
     }
+    parsed["identity_keys"] = identity_keys(parsed)
 
     # For reposts, preserve the original item's useful metadata.
     orig = item.get("orig")
@@ -195,19 +234,107 @@ def load_archive() -> dict[str, dict[str, Any]]:
         return {}
     try:
         payload = json.loads(ARCHIVE_PATH.read_text(encoding="utf-8"))
-    except Exception:
-        return {}
-    items = payload.get("items", []) if isinstance(payload, dict) else []
+    except (OSError, ValueError):
+        raise CollectionError("archive_invalid") from None
+    if not isinstance(payload, dict) or not isinstance(payload.get("items"), list):
+        raise CollectionError("archive_invalid")
+    items = payload["items"]
     result: dict[str, dict[str, Any]] = {}
     for item in items:
-        if isinstance(item, dict) and item.get("id"):
-            result[str(item["id"])] = item
+        if not valid_item(item) or str(item["id"]) in result:
+            raise CollectionError("archive_invalid")
+        result[str(item["id"])] = item
     return result
 
 
-def write_json(path: Path, payload: Any) -> None:
+def valid_item(item: Any) -> bool:
+    return (
+        isinstance(item, dict) and isinstance(item.get("id"), str) and bool(item["id"])
+        and type(item.get("published_ts")) is int and item["published_ts"] > 0
+    )
+
+
+def stage_bytes(path: Path, content: bytes) -> Path:
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    with tempfile.NamedTemporaryFile(dir=path.parent, prefix=".bilibrief-", delete=False) as tmp:
+        staged = Path(tmp.name)
+        try:
+            tmp.write(content)
+            tmp.flush()
+            os.fsync(tmp.fileno())
+        except Exception:
+            tmp.close()
+            staged.unlink(missing_ok=True)
+            raise
+    return staged
+
+
+def write_bundle(payloads: dict[Path, Any]) -> None:
+    """Stage everything first; on replace failure restore every changed file.
+
+    Several files cannot be atomically swapped together. CI only publishes after
+    this function completes (or after a successful rollback and error health).
+    """
+    staged: dict[Path, Path] = {}
+    previous: dict[Path, bytes | None] = {}
+    replaced: list[Path] = []
+    try:
+        for path, payload in payloads.items():
+            content = (json.dumps(payload, ensure_ascii=False, indent=2, allow_nan=False) + "\n").encode("utf-8")
+            json.loads(content)  # validate before touching a previous snapshot
+            previous[path] = path.read_bytes() if path.exists() else None
+            staged[path] = stage_bytes(path, content)
+        for path, temp_path in staged.items():
+            os.replace(temp_path, path)
+            replaced.append(path)
+    except Exception:
+        recovery_failed = False
+        for path in reversed(replaced):
+            try:
+                if previous[path] is None:
+                    path.unlink(missing_ok=True)
+                else:
+                    restore = stage_bytes(path, previous[path])
+                    try:
+                        os.replace(restore, path)
+                    finally:
+                        restore.unlink(missing_ok=True)
+            except OSError:
+                recovery_failed = True
+        raise CollectionError("rollback_failed" if recovery_failed else "write_error") from None
+    finally:
+        for path in staged.values():
+            try:
+                path.unlink(missing_ok=True)
+            except OSError:
+                pass  # Never replace a rollback failure with a cleanup failure.
+
+
+def write_json(path: Path, payload: Any) -> None:
+    write_bundle({path: payload})
+
+
+def previous_success(now: datetime) -> str | None:
+    try:
+        old = json.loads(HEALTH_PATH.read_text(encoding="utf-8"))
+        value = old.get("last_success_at")
+        timestamp = datetime.fromisoformat(value.replace("Z", "+00:00"))
+        if timestamp.tzinfo and timestamp <= now:
+            return value
+    except (OSError, ValueError, TypeError, AttributeError):
+        pass
+    return None
+
+
+def publishing_output(ready: bool) -> bool:
+    if os.environ.get("GITHUB_OUTPUT"):
+        try:
+            with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as stream:
+                stream.write(f"publishable={'true' if ready else 'false'}\n")
+        except OSError:
+            print("ERROR [write_error]: Workflow output could not be saved; publishing is blocked.", file=sys.stderr)
+            return False
+    return True
 
 
 def make_session(cookie: str) -> requests.Session:
@@ -231,34 +358,36 @@ def make_session(cookie: str) -> requests.Session:
 
 
 def request_json(session: requests.Session, url: str, *, params: dict[str, Any] | None = None) -> dict[str, Any]:
-    last_error: Exception | None = None
+    error_code = "network_error"
     for attempt in range(4):
         try:
             r = session.get(url, params=params, timeout=25)
             r.raise_for_status()
             data = r.json()
             if not isinstance(data, dict):
-                raise RuntimeError("Bilibili returned non-object JSON")
+                raise ValueError("non-object JSON")
             return data
-        except Exception as exc:  # noqa: BLE001 - we want retry across network/json/http failures
-            last_error = exc
-            if attempt < 3:
-                time.sleep(2 ** attempt)
-    raise RuntimeError(f"Request failed after retries: {last_error}")
+        except ValueError:
+            error_code = "invalid_json"
+        except requests.HTTPError:
+            error_code = "http_error"
+        except requests.RequestException:
+            error_code = "network_error"
+        if attempt < 3:
+            time.sleep(2 ** attempt)
+    raise CollectionError(error_code)
 
 
 def verify_login(session: requests.Session) -> None:
     data = request_json(session, API_NAV)
-    if data.get("code") != 0 or not get_nested(data, "data", "isLogin", default=False):
-        raise RuntimeError(
-            "Bilibili login verification failed. The cookie may be expired or blocked. "
-            f"API message: {data.get('message', '')!s}"
-        )
+    if data.get("code") != 0 or get_nested(data, "data", "isLogin") is not True:
+        raise CollectionError("login_required")
 
 
 def fetch_feed(session: requests.Session, stop_before_ts: int, max_pages: int = 30) -> list[dict[str, Any]]:
     results: list[dict[str, Any]] = []
     offset = ""
+    offsets = {offset}
 
     for page in range(max_pages):
         params = {
@@ -271,78 +400,92 @@ def fetch_feed(session: requests.Session, stop_before_ts: int, max_pages: int = 
         payload = request_json(session, API_FEED, params=params)
         code = payload.get("code")
         if code != 0:
-            raise RuntimeError(f"Bilibili feed API error: code={code}, message={payload.get('message')}")
+            raise CollectionError("login_required" if code == -101 else "api_error")
 
-        data = payload.get("data") if isinstance(payload.get("data"), dict) else {}
-        page_items = data.get("items") if isinstance(data.get("items"), list) else []
-        if not page_items:
-            break
+        data = payload.get("data")
+        if (not isinstance(data, dict) or not isinstance(data.get("items"), list)
+                or type(data.get("has_more")) not in (bool, int) or data["has_more"] not in (0, 1)):
+            raise CollectionError("incomplete_feed")
+        page_items = data["items"]
 
-        oldest_ts = None
+        page_times = []
         for raw in page_items:
             if not isinstance(raw, dict):
-                continue
-            parsed = parse_one(raw)
-            if not parsed.get("id"):
-                continue
+                raise CollectionError("incomplete_feed")
+            try:
+                parsed = parse_one(raw)
+            except (TypeError, ValueError, OverflowError, OSError):
+                raise CollectionError("incomplete_feed") from None
+            if not valid_item(parsed):
+                raise CollectionError("incomplete_feed")
             results.append(parsed)
-            ts = parsed.get("published_ts") or 0
-            if ts:
-                oldest_ts = ts if oldest_ts is None else min(oldest_ts, ts)
+            page_times.append(parsed["published_ts"])
 
         has_more = bool(data.get("has_more"))
-        offset = str(data.get("offset") or "")
+        if not has_more:
+            return results
+        next_offset = data.get("offset")
+        if not page_items or not isinstance(next_offset, str) or not next_offset or next_offset in offsets:
+            raise CollectionError("incomplete_feed")
+        # A single old/pinned entry must not truncate newer pages.
+        if page_times and max(page_times) < stop_before_ts:
+            return results
+        offset = next_offset
+        offsets.add(offset)
 
-        # We already have everything newer than our retention window.
-        if oldest_ts is not None and oldest_ts < stop_before_ts:
-            break
-        if not has_more or not offset:
-            break
+        if page + 1 < max_pages:
+            time.sleep(1.2)  # polite spacing to reduce rate-limit risk
 
-        time.sleep(1.2)  # polite spacing to reduce rate-limit risk
-
-    return results
+    raise CollectionError("incomplete_feed")
 
 
 def main() -> int:
-    DATA_DIR.mkdir(parents=True, exist_ok=True)
-    PUBLIC_DIR.mkdir(parents=True, exist_ok=True)
-
-    cookie = os.environ.get("BILIBILI_COOKIE", "").strip()
-    retention_hours = int(os.environ.get("RETENTION_HOURS", "168"))
-    latest_hours = int(os.environ.get("LATEST_HOURS", "30"))
-    recent_hours = int(os.environ.get("RECENT_HOURS", "72"))
     now = utc_now()
+    seen_at = iso_utc(now.timestamp())
+    last_success = previous_success(now)
 
     health = {
+        "schema_version": 2,
         "status": "error",
-        "checked_at": iso_utc(),
-        "last_success_at": None,
+        "checked_at": seen_at,
+        "last_success_at": last_success,
+        "snapshot_generated_at": last_success,
         "fetched_items": 0,
         "latest_items": 0,
+        "new_items": 0,
+        "coverage": {"complete": False, "scope": "observed_following_feed_window"},
+        "error_code": None,
         "message": "",
     }
 
-    if not cookie:
-        health["message"] = "Missing BILIBILI_COOKIE environment variable."
-        write_json(HEALTH_PATH, health)
-        print(health["message"], file=sys.stderr)
-        return 2
-
     try:
-        session = make_session(cookie)
-        verify_login(session)
-
-        stop_before_ts = int(now.timestamp()) - retention_hours * 3600
-        fetched = fetch_feed(session, stop_before_ts=stop_before_ts)
+        cookie = os.environ.get("BILIBILI_COOKIE", "").strip()
+        if not cookie:
+            raise CollectionError("missing_cookie")
+        try:
+            retention_hours = int(os.environ.get("RETENTION_HOURS", "168"))
+            latest_hours = int(os.environ.get("LATEST_HOURS", "30"))
+            recent_hours = int(os.environ.get("RECENT_HOURS", "72"))
+            if not 0 < latest_hours <= recent_hours <= retention_hours:
+                raise ValueError
+        except ValueError:
+            raise CollectionError("invalid_config") from None
 
         archive = load_archive()
-        seen_at = iso_utc()
+        stop_before_ts = int(now.timestamp()) - retention_hours * 3600
+        with make_session(cookie) as session:
+            verify_login(session)
+            fetched = fetch_feed(session, stop_before_ts=stop_before_ts)
+
+        previous_ids = set(archive)
         for item in fetched:
+            if not valid_item(item) or item["published_ts"] > int(now.timestamp()):
+                raise CollectionError("incomplete_feed")
             item_id = str(item["id"])
             previous = archive.get(item_id, {})
             item["first_seen_at"] = previous.get("first_seen_at") or seen_at
             item["last_seen_at"] = seen_at
+            item["identity_keys"] = identity_keys(item)
             archive[item_id] = item
 
         # Keep rolling archive based on publish time; malformed entries expire too.
@@ -352,7 +495,7 @@ def main() -> int:
             for item in archive.values()
             if int(item.get("published_ts") or 0) >= keep_after
         ]
-        kept.sort(key=lambda x: int(x.get("published_ts") or 0), reverse=True)
+        kept.sort(key=lambda x: (x["published_ts"], x["id"]), reverse=True)
 
         latest_after = int(now.timestamp()) - latest_hours * 3600
         recent_after = int(now.timestamp()) - recent_hours * 3600
@@ -365,56 +508,60 @@ def main() -> int:
 
         archive_payload = {
             "schema_version": 1,
-            "updated_at": iso_utc(),
+            "updated_at": seen_at,
             "retention_hours": retention_hours,
             "items": kept,
         }
         latest_payload = {
             "schema_version": 1,
-            "generated_at": iso_utc(),
+            "generated_at": seen_at,
+            "coverage": {"complete": True, "scope": "observed_following_feed_window"},
             "window_hours": latest_hours,
             "count": len(latest),
             "items": latest,
         }
         recent_payload = {
             "schema_version": 1,
-            "generated_at": iso_utc(),
+            "generated_at": seen_at,
+            "coverage": {"complete": True, "scope": "observed_following_feed_window"},
             "window_hours": recent_hours,
             "count": len(recent),
             "items": recent,
         }
 
-        write_json(ARCHIVE_PATH, archive_payload)
-        write_json(LATEST_PATH, latest_payload)
-        write_json(RECENT_PATH, recent_payload)
-
         health.update(
             {
                 "status": "ok",
-                "checked_at": iso_utc(),
-                "last_success_at": iso_utc(),
+                "last_success_at": seen_at,
+                "snapshot_generated_at": seen_at,
                 "fetched_items": len(fetched),
                 "latest_items": len(latest),
+                "new_items": len({item["id"] for item in publishable} - previous_ids),
+                "coverage": {"complete": True, "scope": "observed_following_feed_window"},
                 "message": "ok",
             }
         )
-        write_json(HEALTH_PATH, health)
+        write_bundle({ARCHIVE_PATH: archive_payload, LATEST_PATH: latest_payload,
+                      RECENT_PATH: recent_payload, HEALTH_PATH: health})
+        if not publishing_output(True):
+            return 1
         print(f"OK: fetched={len(fetched)}, latest={len(latest)}, archive={len(kept)}")
         return 0
 
-    except Exception as exc:  # noqa: BLE001
-        health["message"] = str(exc)[:500]
-        # Preserve last successful timestamp if previous health exists.
-        if HEALTH_PATH.exists():
-            try:
-                old = json.loads(HEALTH_PATH.read_text(encoding="utf-8"))
-                if isinstance(old, dict):
-                    health["last_success_at"] = old.get("last_success_at")
-            except Exception:
-                pass
-        write_json(HEALTH_PATH, health)
-        print(f"ERROR: {exc}", file=sys.stderr)
-        return 1
+    except Exception as exc:  # Never publish raw exceptions, API messages, headers or proxy URLs.
+        code = exc.code if isinstance(exc, CollectionError) else "unexpected_error"
+        health.update(status="error", last_success_at=last_success, snapshot_generated_at=last_success,
+                      error_code=code, message=ERROR_MESSAGES[code], fetched_items=0, latest_items=0,
+                      new_items=0, coverage={"complete": False, "scope": "observed_following_feed_window"})
+        ready = False
+        try:
+            write_json(HEALTH_PATH, health)
+            ready = code != "rollback_failed"
+        except Exception:
+            code = "write_error"
+        print(f"ERROR [{code}]: {ERROR_MESSAGES[code]}", file=sys.stderr)
+        publishing_output(ready)
+        return 2 if code == "missing_cookie" else 1
 
 
 if __name__ == "__main__":
